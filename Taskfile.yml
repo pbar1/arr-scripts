@@ -1,0 +1,24 @@
+version: "3"
+
+tasks:
+  default: task --list
+
+  clean:
+    aliases: ["c", "purge"]
+    desc: Cleans the repo
+    cmds:
+    - sl clean --ignored --exclude=test/media/*.mkv
+
+  vendor:
+    aliases: ["import"]
+    desc: Vendors third-party code
+    cmds:
+    - go mod vendor
+
+  build:
+    aliases: ["b", "materialize"]
+    desc: Builds the repo
+    deps:
+    - clean
+    cmds:
+    - go build -C cmd/sonarr-subtitle-merge -o out/
