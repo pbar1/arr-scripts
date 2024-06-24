@@ -10,6 +10,15 @@ import (
 	"strings"
 )
 
+var languageFilter = map[string]struct{}{
+	"chi": {},
+	"en":  {},
+	"eng": {},
+	"zh":  {},
+	"zho": {},
+}
+var ReSubStreams = *regexp.MustCompile(`Stream #(\d+:\d+).*?\((\w+)\).*?Subtitle: (\w+)`)
+
 func main() {
 	slog.Info("starting sonarr-subtitle-merge")
 
@@ -60,22 +69,27 @@ func main() {
 		os.Exit(1)
 	}
 
+	// find and dump subtitles
+
 	streams, err := getSubtitleStreams(episodefile)
 	if err != nil {
 		slog.Error("error getting subtitle streams", slog.String("error", err.Error()))
 		os.Exit(1)
 	}
+
 	for _, stream := range streams {
 		slog.Info("got subtitle stream", slog.String("id", stream.StreamID), slog.String("language", stream.Language), slog.String("format", stream.Format))
+		if _, found := languageFilter[stream.Language]; !found {
+			continue
+		}
 		dumpSubtitleFile(stream)
 	}
+	slog.Info("dumped all subtitles")
 }
 
 func fileNameWithoutExtension(fileName string) string {
 	return strings.TrimSuffix(fileName, filepath.Ext(fileName))
 }
-
-var ReSubStreams = *regexp.MustCompile(`Stream #(\d+:\d+).*?\((\w+)\).*?Subtitle: (\w+)`)
 
 func getSubtitleStreams(file string) ([]SubtitleStream, error) {
 	cmd := exec.Command("ffprobe", "-i", file)
