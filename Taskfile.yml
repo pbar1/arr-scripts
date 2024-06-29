@@ -33,4 +33,4 @@ tasks:
     aliases: ["i", "img"]
     desc: Builds container images
     cmds:
-    - docker build . --file sonarr-script/Dockerfile --tag ghcr.io/pbar1/sonarr-script
+    - docker buildx build . --file sonarr-script/Dockerfile --tag ghcr.io/pbar1/sonarr-script --platform linux/amd64,linux/arm64
