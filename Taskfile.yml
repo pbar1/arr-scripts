@@ -18,10 +18,8 @@ tasks:
   build:
     aliases: ["b", "materialize"]
     desc: Builds the repo
-    deps:
-    - clean
     cmds:
-    - go build -C cmd/sonarr-subtitle-merge
+    - cargo build --package sonarr-script
 
   test:
     aliases: ["t"]
@@ -29,4 +27,10 @@ tasks:
     deps:
     - build
     cmds:
-    - scripts/test-sonarr-subtitle-merge
+    - test/sonarr-script
+
+  image:
+    aliases: ["i", "img"]
+    desc: Builds container images
+    cmds:
+    - docker build . --file sonarr-script/Dockerfile --tag ghcr.io/pbar1/sonarr-script

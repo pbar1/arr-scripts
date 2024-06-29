@@ -1,0 +1,1253 @@
+1
+00:00:20,240 --> 00:00:24,670
+<font face="Noto Sans"><font size="65">{\an5}<font size="100"><font color="#fbf9f9"><b>Frieren: Beyond Journey's End</b></font><font size="65"></font></font></font></font>
+
+2
+00:00:21,170 --> 00:00:29,220
+<font face="Noto Sans"><font size="65">{\an5}<font size="100"><font color="#2283be"><b>Frieren: Beyond Journey's End</b></font><font size="65"></font></font></font></font>
+
+3
+00:01:29,980 --> 00:01:39,740
+<font face="Noto Sans"><font size="65">{\an6}<font size="50"><font color="#fef8ef"><b>At the Northernmost Part of the Continent,
+We Arrived at the Place Where
+The People of This World Call Heaven.
+The Land Where Souls Rest, Aureole.</b></font><font size="65"></font></font></font></font>
+
+4
+00:01:39,740 --> 00:01:47,960
+<font face="Noto Sans"><font size="65">{\an6}<font size="50"><font color="#fef8ef"><b>It's a Place Where Many Souls Gather,
+And I Spoke With My Former Comrades There.
+- Great Mage Flamme -</b></font><font size="65"></font></font></font></font>
+
+5
+00:01:59,970 --> 00:02:00,850
+<font face="Noto Sans"><font size="90"><b>Frieren.</b></font></font>
+
+6
+00:02:08,560 --> 00:02:10,290
+<font face="Noto Sans"><font size="90"><b>I see the capital is in view.</b></font></font>
+
+7
+00:02:10,600 --> 00:02:13,540
+<font face="Noto Sans"><font size="90"><b>They're going to celebrate
+the triumphant return of the heroes.</b></font></font>
+
+8
+00:02:13,540 --> 00:02:15,230
+<font face="Noto Sans"><font size="90"><b>It will be quite the party.</b></font></font>
+
+9
+00:02:17,730 --> 00:02:20,290
+<font face="Noto Sans"><font size="90"><b>Sadly, we have to find new jobs
+once we make it back home.</b></font></font>
+
+10
+00:02:20,900 --> 00:02:22,990
+<font face="Noto Sans"><font size="90"><b>You're already thinking about that?</b></font></font>
+
+11
+00:02:23,450 --> 00:02:24,790
+<font face="Noto Sans"><font size="90"><b>It's important.</b></font></font>
+
+12
+00:02:25,120 --> 00:02:28,040
+<font face="Noto Sans"><font size="90"><b>Defeating the Demon King
+doesn't mean it's the end of our journey.</b></font></font>
+
+13
+00:02:28,980 --> 00:02:31,170
+<font face="Noto Sans"><font size="90"><b>We still have a long life ahead of us.</b></font></font>
+
+14
+00:02:32,010 --> 00:02:33,820
+<font face="Noto Sans"><font size="90"><b>New job, huh?</b></font></font>
+
+15
+00:02:33,820 --> 00:02:35,920
+<font face="Noto Sans"><font size="90"><b>I hope I can find a job
+where I get to drink.</b></font></font>
+
+16
+00:02:36,320 --> 00:02:37,740
+<font face="Noto Sans"><font size="90"><b>Aren't you a priest?</b></font></font>
+
+17
+00:02:40,270 --> 00:02:41,870
+<font face="Noto Sans"><font size="90"><b>I see.</b></font></font>
+
+18
+00:02:44,070 --> 00:02:45,140
+<font face="Noto Sans"><font size="90"><b>Frieren.</b></font></font>
+
+19
+00:02:45,490 --> 00:02:51,860
+<font face="Noto Sans"><font size="90"><b>I'm sure you have a long life ahead,
+longer than we can imagine.</b></font></font>
+
+20
+00:02:52,300 --> 00:02:53,740
+<font face="Noto Sans"><font size="90"><b>I guess so.</b></font></font>
+
+21
+00:03:02,080 --> 00:03:07,950
+<font face="Noto Sans"><font size="65">{\an5}<font size="100"><font color="#fbf9f9"><b>Frieren: Beyond Journey's End</b></font><font size="65"></font></font></font></font>
+
+22
+00:03:30,800 --> 00:03:32,480
+<font face="Noto Sans"><font size="90"><b>Himmel the hero.</b></font></font>
+
+23
+00:03:32,960 --> 00:03:34,510
+<font face="Noto Sans"><font size="90"><b>Eisen the warrior.</b></font></font>
+
+24
+00:03:34,810 --> 00:03:35,980
+<font face="Noto Sans"><font size="90"><b>Heiter the priest.</b></font></font>
+
+25
+00:03:36,580 --> 00:03:38,690
+<font face="Noto Sans"><font size="90"><b>Frieren the mage.</b></font></font>
+
+26
+00:03:39,410 --> 00:03:43,360
+<font face="Noto Sans"><font size="90"><b>You have done well
+in defeating the Demon King.</b></font></font>
+
+27
+00:03:43,360 --> 00:03:47,990
+<font face="Noto Sans"><font size="90"><b>With this, the age of peace shall begin.</b></font></font>
+
+28
+00:04:03,070 --> 00:04:06,950
+<font face="Noto Sans"><font size="90"><b>I heard the king is going to build
+statues of us at the square.</b></font></font>
+
+29
+00:04:07,500 --> 00:04:14,340
+<font face="Noto Sans"><font size="90"><b>That said, I doubt they can recreate
+my incredibly dashing look.</b></font></font>
+
+30
+00:04:15,230 --> 00:04:16,920
+<font face="Noto Sans"><font size="90"><b>He sure changed his attitude.</b></font></font>
+
+31
+00:04:16,920 --> 00:04:20,460
+<font face="Noto Sans"><font size="90"><b>When we started our journey,
+he only gave us ten copper coins.</b></font></font>
+
+32
+00:04:22,190 --> 00:04:23,990
+<font face="Noto Sans"><font size="90"><b>Now now, Frieren.</b></font></font>
+
+33
+00:04:23,990 --> 00:04:26,840
+<font face="Noto Sans"><font size="90"><b>We get free drinks this time.</b></font></font>
+
+34
+00:04:26,840 --> 00:04:28,730
+<font face="Noto Sans"><font size="90"><b>That's great, right?</b></font></font>
+
+35
+00:04:29,250 --> 00:04:30,450
+<font face="Noto Sans"><font size="90"><b>You corrupt priest.</b></font></font>
+
+36
+00:04:38,560 --> 00:04:40,210
+<font face="Noto Sans"><font size="90"><b>It really is over, isn't it?</b></font></font>
+
+37
+00:04:41,240 --> 00:04:42,210
+<font face="Noto Sans"><font size="90"><b>Yeah...</b></font></font>
+
+38
+00:04:43,090 --> 00:04:45,590
+<font face="Noto Sans"><font size="90"><b>Our adventure has ended.</b></font></font>
+
+39
+00:04:46,510 --> 00:04:47,990
+<font face="Noto Sans"><font size="90"><b>Ten years, is it?</b></font></font>
+
+40
+00:04:48,720 --> 00:04:50,970
+<font face="Noto Sans"><font size="90"><b>So much has happened.</b></font></font>
+
+41
+00:04:51,910 --> 00:04:53,480
+<font face="Noto Sans"><font size="90"><b>On the very first day of our journey,</b></font></font>
+
+42
+00:04:54,150 --> 00:04:54,880
+<font face="Noto Sans"><font size="90"><b>- Himmel and Eisen almost got executed...</b></font></font>
+
+43
+00:04:54,880 --> 00:04:55,580
+<font face="Noto Sans"><font size="90"><b>- Do it.
+- Himmel and Eisen almost got executed...</b></font></font>
+
+44
+00:04:55,580 --> 00:04:57,010
+<font face="Noto Sans"><font size="90"><b>- We will scold them! - Shall I lick your shoes?
+- Himmel and Eisen almost got executed...</b></font></font>
+
+45
+00:04:57,010 --> 00:04:58,480
+<font face="Noto Sans"><font size="90"><b>- We will scold them! - Shall I lick your shoes?
+- ...for being rude to the king.</b></font></font>
+
+46
+00:04:58,920 --> 00:05:01,980
+<font face="Noto Sans"><font size="90"><b>Our adventure almost
+ended then and there.</b></font></font>
+
+47
+00:05:02,930 --> 00:05:06,470
+<font face="Noto Sans"><font size="90"><b>There was also that time when Heiter was
+so hungover, he was practically useless.</b></font></font>
+
+48
+00:05:10,920 --> 00:05:14,370
+<font face="Noto Sans"><font size="90"><b>You look like an undead.
+Are you okay?</b></font></font>
+
+49
+00:05:14,620 --> 00:05:16,540
+<font face="Noto Sans"><font size="90"><b>- Nope.
+- No good, huh?</b></font></font>
+
+50
+00:05:17,230 --> 00:05:19,380
+<font face="Noto Sans"><font size="90"><b>He's always like that once a week.</b></font></font>
+
+51
+00:05:19,630 --> 00:05:21,380
+<font face="Noto Sans"><font size="90"><b>Compared to those, I was flawless.</b></font></font>
+
+52
+00:05:21,380 --> 00:05:23,790
+<font face="Noto Sans"><font size="90"><b>- When you got caught by the mimic,
+- It's so dark in here! I'm scared!</b></font></font>
+
+53
+00:05:23,790 --> 00:05:25,220
+<font face="Noto Sans"><font size="90"><b>- I thought about leaving you there.
+- It's so dark in here! I'm scared!</b></font></font>
+
+54
+00:05:25,220 --> 00:05:28,440
+<font face="Noto Sans"><font size="90"><b>- Seriously? We warned you so many times.
+- So scary! So dark! So scary! So dark!</b></font></font>
+
+55
+00:05:28,440 --> 00:05:30,100
+<font face="Noto Sans"><font size="90"><b>- How about we just leave this elf here?
+- So scary! So dark! So scary! So dark!</b></font></font>
+
+56
+00:05:34,900 --> 00:05:38,350
+<font face="Noto Sans"><font size="90"><b>Good grief, we only have
+lousy memories, don't we?</b></font></font>
+
+57
+00:05:39,870 --> 00:05:41,080
+<font face="Noto Sans"><font size="90"><b>But it was fun.</b></font></font>
+
+58
+00:05:41,940 --> 00:05:45,240
+<font face="Noto Sans"><font size="90"><b>I'm glad I went on
+an adventure with all of you.</b></font></font>
+
+59
+00:05:46,170 --> 00:05:47,390
+<font face="Noto Sans"><font size="90"><b>Yeah, I agree.</b></font></font>
+
+60
+00:05:47,840 --> 00:05:49,990
+<font face="Noto Sans"><font size="90"><b>It was so short, though.</b></font></font>
+
+61
+00:05:50,360 --> 00:05:51,760
+<font face="Noto Sans"><font size="90"><b>Short?</b></font></font>
+
+62
+00:05:51,760 --> 00:05:54,120
+<font face="Noto Sans"><font size="90"><b>What are you talking about?
+It's ten years.</b></font></font>
+
+63
+00:05:54,630 --> 00:05:58,130
+<font face="Noto Sans"><font size="90"><b>Look at Heiter,
+he's an old man now.</b></font></font>
+
+64
+00:05:58,130 --> 00:05:59,330
+<font face="Noto Sans"><font size="90"><b>That is rude.</b></font></font>
+
+65
+00:05:59,690 --> 00:06:00,990
+<font face="Noto Sans"><font size="90"><b>He always was.</b></font></font>
+
+66
+00:06:01,270 --> 00:06:02,460
+<font face="Noto Sans"><font size="90"><b>That is rude.</b></font></font>
+
+67
+00:06:09,860 --> 00:06:11,220
+<font face="Noto Sans"><font size="90"><b>It's almost time.</b></font></font>
+
+68
+00:06:19,450 --> 00:06:21,730
+<font face="Noto Sans"><font size="90"><b>Era Meteor Shower, was it?</b></font></font>
+
+69
+00:06:22,480 --> 00:06:25,550
+<font face="Noto Sans"><font size="90"><b>A meteor shower that
+only happens every 50 years.</b></font></font>
+
+70
+00:06:26,750 --> 00:06:29,490
+<font face="Noto Sans"><font size="90"><b>It's perfect for the dawn of
+a new era of peace.</b></font></font>
+
+71
+00:06:32,780 --> 00:06:34,010
+<font face="Noto Sans"><font size="90"><b>Beautiful, isn't it?</b></font></font>
+
+72
+00:06:34,420 --> 00:06:36,670
+<font face="Noto Sans"><font size="90"><b>It's hard to see it in the city.</b></font></font>
+
+73
+00:06:36,670 --> 00:06:39,750
+<font face="Noto Sans"><font size="90"><b>Read the room,
+we're having a moment here.</b></font></font>
+
+74
+00:06:42,030 --> 00:06:43,250
+<font face="Noto Sans"><font size="90"><b>Then, next time...</b></font></font>
+
+75
+00:06:45,210 --> 00:06:49,510
+<font face="Noto Sans"><font size="90"><b>I know a better place to see it,
+so I'll take you there 50 years from now.</b></font></font>
+
+76
+00:06:53,170 --> 00:06:55,060
+<font face="Noto Sans"><font size="90"><b>- What is it?
+- No.</b></font></font>
+
+77
+00:06:55,760 --> 00:06:56,770
+<font face="Noto Sans"><font size="90"><b>Nothing.</b></font></font>
+
+78
+00:06:58,660 --> 00:06:59,740
+<font face="Noto Sans"><font size="90"><b>Sure.</b></font></font>
+
+79
+00:07:00,370 --> 00:07:01,740
+<font face="Noto Sans"><font size="90"><b>Let's go watch it together.</b></font></font>
+
+80
+00:07:24,380 --> 00:07:26,000
+<font face="Noto Sans"><font size="90"><b>Well then, I'll be leaving.</b></font></font>
+
+81
+00:07:26,680 --> 00:07:28,260
+<font face="Noto Sans"><font size="90"><b>What are you going to do after this?</b></font></font>
+
+82
+00:07:28,950 --> 00:07:31,070
+<font face="Noto Sans"><font size="90"><b>I'm going to continue gathering magic.</b></font></font>
+
+83
+00:07:31,480 --> 00:07:34,970
+<font face="Noto Sans"><font size="90"><b>The plan is to travel around the central
+lands for the next hundred years or so.</b></font></font>
+
+84
+00:07:34,970 --> 00:07:37,220
+<font face="Noto Sans"><font size="90"><b>Well, I'll come visit every now and then.</b></font></font>
+
+85
+00:07:42,470 --> 00:07:45,070
+<font face="Noto Sans"><font size="90"><b>The way elves see things
+is beyond our comprehension.</b></font></font>
+
+86
+00:07:45,070 --> 00:07:47,610
+<font face="Noto Sans"><font size="90"><b>You can say that again.
+Just how long has she lived?</b></font></font>
+
+87
+00:07:48,530 --> 00:07:53,630
+<font face="Noto Sans"><font size="90"><b>To her, 50 years or 100 years
+might be nothing.</b></font></font>
+
+88
+00:08:44,240 --> 00:08:45,920
+<font face="Noto Sans"><font size="90"><b>Shadow Dragon's horn?</b></font></font>
+
+89
+00:08:46,330 --> 00:08:48,590
+<font face="Noto Sans"><font size="90"><b>We don't have that here.</b></font></font>
+
+90
+00:08:49,130 --> 00:08:50,600
+<font face="Noto Sans"><font size="90"><b>There haven't been sightings of</b></font></font>
+
+91
+00:08:50,600 --> 00:08:52,990
+<font face="Noto Sans"><font size="90"><b>a Shadow Dragon for
+20 to 30 years, after all.</b></font></font>
+
+92
+00:08:52,990 --> 00:08:56,920
+<font face="Noto Sans"><font size="90"><b>I see. That's a problem,
+I need it for summoning.</b></font></font>
+
+93
+00:08:59,580 --> 00:09:02,390
+<font face="Noto Sans"><font size="90"><b>Come to think of it, we picked one
+at the Demon King's castle.</b></font></font>
+
+94
+00:09:02,970 --> 00:09:05,020
+<font face="Noto Sans"><font size="90"><b>I asked Himmel to keep it, didn't I?</b></font></font>
+
+95
+00:09:05,750 --> 00:09:09,010
+<font face="Noto Sans"><font size="90"><b>It has an evil aura emanating out of it...</b></font></font>
+
+96
+00:09:09,010 --> 00:09:11,010
+<font face="Noto Sans"><font size="90"><b>It's not dangerous to my health, is it?</b></font></font>
+
+97
+00:09:11,010 --> 00:09:13,590
+<font face="Noto Sans"><font size="90"><b>- Dunno.
+- Dunno, huh?</b></font></font>
+
+98
+00:09:14,740 --> 00:09:17,370
+<font face="Noto Sans"><font size="90"><b>It should be time
+for the Era Meteor Shower anyway.</b></font></font>
+
+99
+00:09:17,370 --> 00:09:18,910
+<font face="Noto Sans"><font size="90"><b>Might as well go get it.</b></font></font>
+
+100
+00:09:25,020 --> 00:09:28,340
+<font face="Noto Sans"><font size="90"><b>The city has changed a lot
+since last time.</b></font></font>
+
+101
+00:09:42,850 --> 00:09:44,840
+<font face="Noto Sans"><font size="90"><b>It should be around here...</b></font></font>
+
+102
+00:09:45,690 --> 00:09:46,940
+<font face="Noto Sans"><font size="90"><b>Frieren?</b></font></font>
+
+103
+00:09:47,740 --> 00:09:48,890
+<font face="Noto Sans"><font size="90"><b>Himmel?</b></font></font>
+
+104
+00:09:55,720 --> 00:09:58,360
+<font face="Noto Sans"><font size="90"><b>- You're so old and wrinkly!
+- That's rude, don't you think?</b></font></font>
+
+105
+00:10:00,920 --> 00:10:04,560
+<font face="Noto Sans"><font size="90"><b>I still look handsome even
+at this age, don't I?</b></font></font>
+
+106
+00:10:06,180 --> 00:10:07,950
+<font face="Noto Sans"><font size="90"><b>It's been 50 years, hasn't it?</b></font></font>
+
+107
+00:10:08,400 --> 00:10:10,880
+<font face="Noto Sans"><font size="90"><b>You still look the same as
+the last time I saw you.</b></font></font>
+
+108
+00:10:11,880 --> 00:10:15,060
+<font face="Noto Sans"><font size="90"><b>I thought I would never see you again.</b></font></font>
+
+109
+00:10:17,610 --> 00:10:19,380
+<font face="Noto Sans"><font size="90"><b>Era Meteor Shower, huh?</b></font></font>
+
+110
+00:10:19,770 --> 00:10:21,210
+<font face="Noto Sans"><font size="90"><b>How nostalgic.</b></font></font>
+
+111
+00:10:21,740 --> 00:10:24,800
+<font face="Noto Sans"><font size="90"><b>Oh, and about that thing we picked up
+at the Demon King's castle...</b></font></font>
+
+112
+00:10:24,800 --> 00:10:26,770
+<font face="Noto Sans"><font size="90"><b>The Shadow Dragon's horn, right?</b></font></font>
+
+113
+00:10:27,160 --> 00:10:30,000
+<font face="Noto Sans"><font size="90"><b>I never forgot about it
+for even a moment.</b></font></font>
+
+114
+00:10:30,470 --> 00:10:34,020
+<font face="Noto Sans"><font size="90"><b>It's been emitting an evil aura nonstop
+from inside the drawer, after all.</b></font></font>
+
+115
+00:10:34,600 --> 00:10:35,780
+<font face="Noto Sans"><font size="90"><b>Uh, sorry about that.</b></font></font>
+
+116
+00:10:36,490 --> 00:10:40,140
+<font face="Noto Sans"><font size="90"><b>You could've just thrown it
+in a barn or something.</b></font></font>
+
+117
+00:10:42,110 --> 00:10:43,920
+<font face="Noto Sans"><font size="90"><b>I could never do that.</b></font></font>
+
+118
+00:10:47,240 --> 00:10:51,920
+<font face="Noto Sans"><font size="90"><b>You might have left it with me
+without much thought,</b></font></font>
+
+119
+00:10:51,920 --> 00:10:57,090
+<font face="Noto Sans"><font size="90"><b>but to me, it's something important
+a dear friend entrusted to me.</b></font></font>
+
+120
+00:10:57,580 --> 00:11:01,180
+<font face="Noto Sans"><font size="90"><b>It's something that should one day
+be returned to you, just like this.</b></font></font>
+
+121
+00:11:09,930 --> 00:11:12,730
+<font face="Noto Sans"><font size="90"><b>It's not that important though.</b></font></font>
+
+122
+00:11:32,750 --> 00:11:33,880
+<font face="Noto Sans"><font size="90"><b>Himmel, are you done yet?</b></font></font>
+
+123
+00:11:34,730 --> 00:11:37,350
+<font face="Noto Sans"><font size="90"><b>You're already bald,
+there's nothing to style about it.</b></font></font>
+
+124
+00:11:38,260 --> 00:11:40,880
+<font face="Noto Sans"><font size="90"><b>There are a lot of things you can do
+even when you're bald.</b></font></font>
+
+125
+00:11:48,040 --> 00:11:51,500
+<font face="Noto Sans"><font size="90"><b>Then, shall we go see the
+Era Meteor Shower?</b></font></font>
+
+126
+00:11:59,820 --> 00:12:02,380
+<font face="Noto Sans"><font size="90"><b>You look much more
+dignified now, Heiter.</b></font></font>
+
+127
+00:12:02,380 --> 00:12:04,410
+<font face="Noto Sans"><font size="90"><b>I'm now a bishop
+in the Holy City, after all.</b></font></font>
+
+128
+00:12:04,780 --> 00:12:07,870
+<font face="Noto Sans"><font size="90"><b>You don't change a single bit, do you?</b></font></font>
+
+129
+00:12:07,870 --> 00:12:09,570
+<font face="Noto Sans"><font size="90"><b>Don't pat my head.</b></font></font>
+
+130
+00:12:11,270 --> 00:12:13,500
+<font face="Noto Sans"><font size="90"><b>You don't change much either, Eisen.</b></font></font>
+
+131
+00:12:14,260 --> 00:12:16,440
+<font face="Noto Sans"><font size="90"><b>Huh. That's how it looks to you?</b></font></font>
+
+132
+00:12:16,690 --> 00:12:18,000
+<font face="Noto Sans"><font size="90"><b>That's a dwarf for you.</b></font></font>
+
+133
+00:12:18,530 --> 00:12:21,230
+<font face="Noto Sans"><font size="90"><b>So, where's the place
+where we can see it clearly?</b></font></font>
+
+134
+00:12:21,600 --> 00:12:22,290
+<font face="Noto Sans"><font size="90"><b>Hmm?</b></font></font>
+
+135
+00:12:22,560 --> 00:12:24,530
+<font face="Noto Sans"><font size="90"><b>Are we going right away?</b></font></font>
+
+136
+00:12:24,530 --> 00:12:28,510
+<font face="Noto Sans"><font size="90"><b>Isn't it a bit early
+for the Era Meteor Shower?</b></font></font>
+
+137
+00:12:28,510 --> 00:12:32,290
+<font face="Noto Sans"><font size="90"><b>Yeah, it'll take about a week
+from here on foot.</b></font></font>
+
+138
+00:12:32,860 --> 00:12:34,770
+<font face="Noto Sans"><font size="90"><b>It's that far away?</b></font></font>
+
+139
+00:12:35,180 --> 00:12:36,410
+<font face="Noto Sans"><font size="90"><b>Goodness.</b></font></font>
+
+140
+00:12:36,720 --> 00:12:39,020
+<font face="Noto Sans"><font size="90"><b>You're so hard on the elderly.</b></font></font>
+
+141
+00:12:42,430 --> 00:12:45,640
+<font face="Noto Sans"><font size="90"><b>This really brings back memories.</b></font></font>
+
+142
+00:12:45,900 --> 00:12:48,030
+<font face="Noto Sans"><font size="90"><b>It's just like the good old days.</b></font></font>
+
+143
+00:12:52,490 --> 00:12:55,040
+<font face="Noto Sans"><font size="90"><b>We traveled around to so many places.</b></font></font>
+
+144
+00:12:56,100 --> 00:13:00,840
+<font face="Noto Sans"><font size="90"><b>Everything was shining like new.</b></font></font>
+
+145
+00:13:25,970 --> 00:13:30,910
+<font face="Noto Sans"><font size="90"><b>In those beautiful memories,
+every one of you is always there.</b></font></font>
+
+146
+00:13:34,220 --> 00:13:35,520
+<font face="Noto Sans"><font size="90"><b>You see,</b></font></font>
+
+147
+00:13:36,100 --> 00:13:39,750
+<font face="Noto Sans"><font size="90"><b>I've been waiting for the day
+we all would gather again like this.</b></font></font>
+
+148
+00:13:40,560 --> 00:13:42,340
+<font face="Noto Sans"><font size="90"><b>Thank you, Frieren.</b></font></font>
+
+149
+00:13:43,470 --> 00:13:48,600
+<font face="Noto Sans"><font size="90"><b>You allowed me to have
+a very exciting adventure one last time.</b></font></font>
+
+150
+00:14:12,840 --> 00:14:14,180
+<font face="Noto Sans"><font size="90"><b>So beautiful...</b></font></font>
+
+151
+00:14:41,520 --> 00:14:44,800
+<font face="Noto Sans"><font size="90"><b>I believe Himmel was happy.</b></font></font>
+
+152
+00:14:46,380 --> 00:14:47,790
+<font face="Noto Sans"><font size="90"><b>Is he?</b></font></font>
+
+153
+00:14:55,010 --> 00:14:57,910
+<font face="Noto Sans"><font size="90"><b>That girl traveled with Himmel the hero?</b></font></font>
+
+154
+00:14:58,320 --> 00:15:00,420
+<font face="Noto Sans"><font size="90"><b>How come she doesn't look sad
+in the slightest?</b></font></font>
+
+155
+00:15:00,760 --> 00:15:02,510
+<font face="Noto Sans"><font size="90"><b>So heartless.</b></font></font>
+
+156
+00:15:03,780 --> 00:15:07,300
+<font face="Noto Sans"><font size="90"><b>Oh my, but we're not sad either.</b></font></font>
+
+157
+00:15:07,300 --> 00:15:08,810
+<font face="Noto Sans"><font size="90"><b>Act properly, Bishop!</b></font></font>
+
+158
+00:15:08,810 --> 00:15:10,050
+<font face="Noto Sans"><font size="90"><b>You heartless man!</b></font></font>
+
+159
+00:15:11,740 --> 00:15:13,150
+<font face="Noto Sans"><font size="90"><b>You're so harsh.</b></font></font>
+
+160
+00:15:37,200 --> 00:15:38,440
+<font face="Noto Sans"><font size="90"><b>I mean,</b></font></font>
+
+161
+00:15:38,980 --> 00:15:41,670
+<font face="Noto Sans"><font size="90"><b>I barely knew anything about him...</b></font></font>
+
+162
+00:15:53,600 --> 00:15:57,350
+<font face="Noto Sans"><font size="90"><b>We only traveled together
+for ten years...</b></font></font>
+
+163
+00:16:04,600 --> 00:16:06,820
+<font face="Noto Sans"><font size="90"><b>I knew human lives</b></font></font>
+
+164
+00:16:07,350 --> 00:16:08,850
+<font face="Noto Sans"><font size="90"><b>were short...</b></font></font>
+
+165
+00:16:10,170 --> 00:16:14,820
+<font face="Noto Sans"><font size="90"><b>Why didn't I try to get
+to know him better?</b></font></font>
+
+166
+00:16:24,120 --> 00:16:26,220
+<font face="Noto Sans"><font size="90"><b>Don't pat my head...</b></font></font>
+
+167
+00:16:34,920 --> 00:16:37,970
+<font face="Noto Sans"><font size="90"><b>Well then, I will be going
+back to the Holy City.</b></font></font>
+
+168
+00:16:41,230 --> 00:16:43,730
+<font face="Noto Sans"><font size="90"><b>Let me have a good look at you two.</b></font></font>
+
+169
+00:16:44,290 --> 00:16:46,600
+<font face="Noto Sans"><font size="90"><b>This will probably be
+the last time I see you both.</b></font></font>
+
+170
+00:16:47,090 --> 00:16:48,360
+<font face="Noto Sans"><font size="90"><b>Are you ill?</b></font></font>
+
+171
+00:16:48,860 --> 00:16:51,110
+<font face="Noto Sans"><font size="90"><b>All the drinking is catching up to me.</b></font></font>
+
+172
+00:16:51,550 --> 00:16:52,860
+<font face="Noto Sans"><font size="90"><b>Must be divine punishment.</b></font></font>
+
+173
+00:16:54,440 --> 00:16:56,430
+<font face="Noto Sans"><font size="90"><b>If you happen to visit the Holy City,</b></font></font>
+
+174
+00:16:56,430 --> 00:16:58,990
+<font face="Noto Sans"><font size="90"><b>make sure to offer
+some drinks at my grave.</b></font></font>
+
+175
+00:17:00,970 --> 00:17:03,480
+<font face="Noto Sans"><font size="90"><b>Aren't you scared of dying, Heiter?</b></font></font>
+
+176
+00:17:05,800 --> 00:17:09,280
+<font face="Noto Sans"><font size="90"><b>We are the party of heroes
+that saved the world.</b></font></font>
+
+177
+00:17:09,570 --> 00:17:13,180
+<font face="Noto Sans"><font size="90"><b>We will definitely live in luxury
+in heaven after we die.</b></font></font>
+
+178
+00:17:13,980 --> 00:17:17,990
+<font face="Noto Sans"><font size="90"><b>That is the reason
+why I fought alongside all of you.</b></font></font>
+
+179
+00:17:17,990 --> 00:17:19,430
+<font face="Noto Sans"><font size="90"><b>You corrupt priest.</b></font></font>
+
+180
+00:17:21,930 --> 00:17:23,410
+<font face="Noto Sans"><font size="90"><b>Well then, I will be going first.</b></font></font>
+
+181
+00:17:31,760 --> 00:17:34,620
+<font face="Noto Sans"><font size="90"><b>All right, I will be going as well.</b></font></font>
+
+182
+00:17:35,560 --> 00:17:37,480
+<font face="Noto Sans"><font size="90"><b>Another trip to search for more spells?</b></font></font>
+
+183
+00:17:37,830 --> 00:17:39,530
+<font face="Noto Sans"><font size="90"><b>Yeah, there's that as well,</b></font></font>
+
+184
+00:17:40,580 --> 00:17:43,420
+<font face="Noto Sans"><font size="90"><b>but I also want to learn
+more about humans.</b></font></font>
+
+185
+00:17:45,670 --> 00:17:46,540
+<font face="Noto Sans"><font size="90"><b>I see.</b></font></font>
+
+186
+00:17:47,690 --> 00:17:49,990
+<font face="Noto Sans"><font size="90"><b>So I'd like to ask you.</b></font></font>
+
+187
+00:17:49,990 --> 00:17:55,110
+<font face="Noto Sans"><font size="90"><b>I'm a mage, so having a strong
+vanguard warrior with me would be great.</b></font></font>
+
+188
+00:17:55,110 --> 00:17:56,720
+<font face="Noto Sans"><font size="90"><b>Give me a break.</b></font></font>
+
+189
+00:17:57,090 --> 00:17:59,970
+<font face="Noto Sans"><font size="90"><b>I'm too old to swing an axe now.</b></font></font>
+
+190
+00:18:03,390 --> 00:18:05,850
+<font face="Noto Sans"><font size="90"><b>Don't make that look, Frieren.</b></font></font>
+
+191
+00:18:06,210 --> 00:18:11,110
+<font face="Noto Sans"><font size="90"><b>Life still goes on surprisingly
+longer past your prime.</b></font></font>
+
+192
+00:18:13,090 --> 00:18:13,860
+<font face="Noto Sans"><font size="90"><b>I see.</b></font></font>
+
+193
+00:18:14,790 --> 00:18:16,860
+<font face="Noto Sans"><font size="90"><b>Then, I will see you again, Eisen.</b></font></font>
+
+194
+00:18:17,330 --> 00:18:18,910
+<font face="Noto Sans"><font size="90"><b>Yes. See you later.</b></font></font>
+
+195
+00:18:53,400 --> 00:18:56,940
+<font face="Noto Sans"><font size="65">{\an6}<font size="75"><font color="#fffaed">Episode 1: The Journey's End</font><font size="65"></font></font></font></font>
+
+196
+00:19:00,550 --> 00:19:02,460
+<font face="Noto Sans"><font size="90"><b>It's this tree again.</b></font></font>
+
+197
+00:19:02,460 --> 00:19:04,680
+<font face="Noto Sans"><font size="90"><b>I always get lost in this forest.</b></font></font>
+
+198
+00:19:05,210 --> 00:19:06,360
+<font face="Noto Sans"><font size="90"><b>Where am I?</b></font></font>
+
+199
+00:19:05,870 --> 00:19:10,300
+<font face="Noto Sans"><font size="65">{\an6}<font size="50"><font color="#fef8ef"><b>20 Years After the Death of Himmel the Hero.
+Central Lands, Outskirts of Holy City of Strahl</b></font><font size="65"></font></font></font></font>
+
+200
+00:19:11,060 --> 00:19:13,040
+<font face="Noto Sans"><font size="90"><b>Are you looking for something?</b></font></font>
+
+201
+00:19:18,430 --> 00:19:20,050
+<font face="Noto Sans"><font size="90"><b>Is something wrong?</b></font></font>
+
+202
+00:19:21,000 --> 00:19:24,660
+<font face="Noto Sans"><font size="90"><b>No. I'm looking for a house
+belonging to someone named Heiter.</b></font></font>
+
+203
+00:19:25,040 --> 00:19:27,690
+<font face="Noto Sans"><font size="90"><b>You are our guest, then.</b></font></font>
+
+204
+00:19:30,670 --> 00:19:33,160
+<font face="Noto Sans"><font size="90"><b>So you're still alive,
+corrupt priest.</b></font></font>
+
+205
+00:19:34,670 --> 00:19:38,190
+<font face="Noto Sans"><font size="90"><b>Turns out it's not easy to die
+in a cool manner.</b></font></font>
+
+206
+00:19:38,740 --> 00:19:40,990
+<font face="Noto Sans"><font size="90"><b>I brought a drink to offer
+on your grave.</b></font></font>
+
+207
+00:19:41,510 --> 00:19:42,690
+<font face="Noto Sans"><font size="90"><b>Do you want to drink it?</b></font></font>
+
+208
+00:19:42,690 --> 00:19:44,970
+<font face="Noto Sans"><font size="90"><b>I've stopped drinking.</b></font></font>
+
+209
+00:19:44,970 --> 00:19:45,980
+<font face="Noto Sans"><font size="90"><b>Is that so?</b></font></font>
+
+210
+00:19:46,510 --> 00:19:51,320
+<font face="Noto Sans"><font size="90"><b>I think it's too late to ask forgiveness
+from the goddess by acting good.</b></font></font>
+
+211
+00:19:58,600 --> 00:20:00,540
+<font face="Noto Sans"><font size="90"><b>Thank you very much.</b></font></font>
+
+212
+00:20:05,730 --> 00:20:06,600
+<font face="Noto Sans"><font size="90"><b>Who is she?</b></font></font>
+
+213
+00:20:06,960 --> 00:20:08,470
+<font face="Noto Sans"><font size="90"><b>Her name is Fern.</b></font></font>
+
+214
+00:20:08,730 --> 00:20:11,840
+<font face="Noto Sans"><font size="90"><b>A war orphan from the southern lands.</b></font></font>
+
+215
+00:20:13,270 --> 00:20:14,750
+<font face="Noto Sans"><font size="90"><b>That's not like you.</b></font></font>
+
+216
+00:20:15,160 --> 00:20:18,150
+<font face="Noto Sans"><font size="90"><b>You're not the type
+to help people in need.</b></font></font>
+
+217
+00:20:18,510 --> 00:20:20,110
+<font face="Noto Sans"><font size="90"><b>You're no Himmel.</b></font></font>
+
+218
+00:20:22,880 --> 00:20:25,820
+<font face="Noto Sans"><font size="90"><b>Frieren, what brings you here?</b></font></font>
+
+219
+00:20:25,820 --> 00:20:28,080
+<font face="Noto Sans"><font size="90"><b>I was on the way to the Holy City
+to buy some stuff.</b></font></font>
+
+220
+00:20:28,660 --> 00:20:32,140
+<font face="Noto Sans"><font size="90"><b>I'm trying to interact with people
+as much as possible on my journey.</b></font></font>
+
+221
+00:20:33,460 --> 00:20:36,170
+<font face="Noto Sans"><font size="90"><b>Besides, I owe you a lot, Heiter.</b></font></font>
+
+222
+00:20:36,480 --> 00:20:38,420
+<font face="Noto Sans"><font size="90"><b>So I came to pay them back
+before you die.</b></font></font>
+
+223
+00:20:41,940 --> 00:20:44,160
+<font face="Noto Sans"><font size="90"><b>In that case,
+I would like to ask a favor.</b></font></font>
+
+224
+00:20:45,400 --> 00:20:47,260
+<font face="Noto Sans"><font size="90"><b>Will you take an apprentice?</b></font></font>
+
+225
+00:20:49,140 --> 00:20:53,060
+<font face="Noto Sans"><font size="90"><b>Fern has the making of a mage.</b></font></font>
+
+226
+00:20:53,060 --> 00:20:56,150
+<font face="Noto Sans"><font size="90"><b>Could you take her on your journey?</b></font></font>
+
+227
+00:20:59,150 --> 00:21:02,150
+<font face="Noto Sans"><font size="90"><b>I'm sorry, Heiter.
+Anything but that.</b></font></font>
+
+228
+00:21:02,530 --> 00:21:04,160
+<font face="Noto Sans"><font size="90"><b>She would slow me down.</b></font></font>
+
+229
+00:21:05,580 --> 00:21:09,280
+<font face="Noto Sans"><font size="90"><b>You know the death rate of
+apprentice mages in real fights.</b></font></font>
+
+230
+00:21:10,130 --> 00:21:13,740
+<font face="Noto Sans"><font size="90"><b>I have no intention of bringing a girl
+entrusted to me by a friend to her grave.</b></font></font>
+
+231
+00:21:16,910 --> 00:21:18,220
+<font face="Noto Sans"><font size="90"><b>I see...</b></font></font>
+
+232
+00:21:18,890 --> 00:21:20,730
+<font face="Noto Sans"><font size="90"><b>Then, I would like to ask
+something else.</b></font></font>
+
+233
+00:21:26,320 --> 00:21:29,680
+<font face="Noto Sans"><font size="90"><b>This was excavated from
+the grave of Ewig the sage.</b></font></font>
+
+234
+00:21:30,380 --> 00:21:37,440
+<font face="Noto Sans"><font size="90"><b>They say this grimoire contains long-lost
+spells of resurrection and immortality.</b></font></font>
+
+235
+00:21:37,890 --> 00:21:41,070
+<font face="Noto Sans"><font size="90"><b>I doubt such magic
+actually exists, though.</b></font></font>
+
+236
+00:21:41,410 --> 00:21:45,070
+<font face="Noto Sans"><font size="90"><b>I would like you to decipher it
+and find out if they are true.</b></font></font>
+
+237
+00:21:45,400 --> 00:21:46,660
+<font face="Noto Sans"><font size="90"><b>Can you do it?</b></font></font>
+
+238
+00:21:47,220 --> 00:21:49,430
+<font face="Noto Sans"><font size="90"><b>They're image ciphers, right?</b></font></font>
+
+239
+00:21:49,430 --> 00:21:52,160
+<font face="Noto Sans"><font size="90"><b>The people back then
+really loved them.</b></font></font>
+
+240
+00:21:52,690 --> 00:21:54,940
+<font face="Noto Sans"><font size="90"><b>Well, I can do that in five to six years.</b></font></font>
+
+241
+00:21:55,720 --> 00:21:56,960
+<font face="Noto Sans"><font size="90"><b>I see...</b></font></font>
+
+242
+00:21:57,840 --> 00:22:00,680
+<font face="Noto Sans"><font size="90"><b>But why do you want me
+to decipher this?</b></font></font>
+
+243
+00:22:00,940 --> 00:22:03,150
+<font face="Noto Sans"><font size="90"><b>I thought you weren't afraid of dying.</b></font></font>
+
+244
+00:22:03,580 --> 00:22:05,550
+<font face="Noto Sans"><font size="90"><b>I have two reasons.</b></font></font>
+
+245
+00:22:06,150 --> 00:22:10,550
+<font face="Noto Sans"><font size="90"><b>First, I was just acting tough
+in front of the two of you back then.</b></font></font>
+
+246
+00:22:10,890 --> 00:22:14,970
+<font face="Noto Sans"><font size="90"><b>Second, I am more
+afraid of death now.</b></font></font>
+
+247
+00:22:15,990 --> 00:22:19,690
+<font face="Noto Sans"><font size="90"><b>Well, I'm not asking for immortality,
+I just want...</b></font></font>
+
+248
+00:22:20,170 --> 00:22:24,080
+<font face="Noto Sans"><font size="90"><b>I just want a little bit more time.</b></font></font>
+
+249
+00:22:28,240 --> 00:22:32,380
+<font face="Noto Sans"><font size="90"><b>Besides, the holy scriptures
+told us to live a healthy life.</b></font></font>
+
+250
+00:22:32,380 --> 00:22:35,380
+<font face="Noto Sans"><font size="90"><b>A long life is exactly that, Frieren.</b></font></font>
+
+251
+00:22:35,630 --> 00:22:37,300
+<font face="Noto Sans"><font size="90"><b>You corrupt priest.</b></font></font>
+
+252
+00:22:39,510 --> 00:22:40,460
+<font face="Noto Sans"><font size="90"><b>Also,</b></font></font>
+
+253
+00:22:40,840 --> 00:22:46,340
+<font face="Noto Sans"><font size="90"><b>I don't mind if you do it on the side,
+but can you teach Fern some magic?</b></font></font>
+
+254
+00:22:46,840 --> 00:22:50,990
+<font face="Noto Sans"><font size="90"><b>I'm a priest,
+so I'm just not that good at it.</b></font></font>
+
+255
+00:22:51,860 --> 00:22:54,030
+<font face="Noto Sans"><font size="90"><b>Well, I guess I could do that much.</b></font></font>
+
+256
+00:23:01,870 --> 00:23:02,940
+<font face="Noto Sans"><font size="90"><b>There you are.</b></font></font>
+
+257
+00:23:04,440 --> 00:23:06,730
+<font face="Noto Sans"><font size="90"><b>It wasn't easy to find you.</b></font></font>
+
+258
+00:23:06,730 --> 00:23:08,750
+<font face="Noto Sans"><font size="90"><b>Do you always train in the forest?</b></font></font>
+
+259
+00:23:09,180 --> 00:23:13,310
+<font face="Noto Sans"><font size="90"><b>So it was hard even for you
+to find me, Mistress Frieren.</b></font></font>
+
+260
+00:23:13,980 --> 00:23:18,050
+<font face="Noto Sans"><font size="90"><b>Master Heiter also told me that
+I don't have much of a presence.</b></font></font>
+
+261
+00:23:19,950 --> 00:23:22,250
+<font face="Noto Sans"><font size="90"><b>Isn't that a good thing?</b></font></font>
+
+262
+00:23:23,800 --> 00:23:25,000
+<font face="Noto Sans"><font size="90"><b>I guess so.</b></font></font>
+
+263
+00:23:27,930 --> 00:23:29,010
+<font face="Noto Sans"><font size="90"><b>I knew it.</b></font></font>
+
+264
+00:23:29,610 --> 00:23:32,010
+<font face="Noto Sans"><font size="90"><b>I could barely detect
+the presence of her magic.</b></font></font>
+
+265
+00:23:32,520 --> 00:23:34,980
+<font face="Noto Sans"><font size="90"><b>She has incredible mana control.</b></font></font>
+
+266
+00:23:35,890 --> 00:23:39,200
+<font face="Noto Sans"><font size="90"><b>Just how hard has she trained
+at such a young age?</b></font></font>
+
+267
+00:23:39,770 --> 00:23:41,020
+<font face="Noto Sans"><font size="90"><b>Master Heiter told me</b></font></font>
+
+268
+00:23:41,730 --> 00:23:45,770
+<font face="Noto Sans"><font size="90"><b>that I would be a full-fledged mage
+once I could shoot through that boulder.</b></font></font>
+
+269
+00:23:46,280 --> 00:23:49,110
+<font face="Noto Sans"><font size="90"><b>Huh, Heiter knows what
+he's talking about.</b></font></font>
+
+270
+00:23:49,110 --> 00:23:50,070
+<font face="Noto Sans"><font size="90"><b>You see, that's...</b></font></font>
+
+271
+00:23:55,970 --> 00:23:59,700
+<font face="Noto Sans"><font size="90"><b>My spell dissipates
+before it can reach the rock.</b></font></font>
+
+272
+00:24:00,570 --> 00:24:01,710
+<font face="Noto Sans"><font size="90"><b>I see.</b></font></font>
+
+273
+00:24:02,520 --> 00:24:05,380
+<font face="Noto Sans"><font size="90"><b>What kind of training
+must I do to improve that?</b></font></font>
+
+274
+00:24:05,700 --> 00:24:08,460
+<font face="Noto Sans"><font size="90"><b>But before that,
+can I ask you something first?</b></font></font>
+
+275
+00:24:09,550 --> 00:24:10,910
+<font face="Noto Sans"><font size="90"><b>Do you like magic?</b></font></font>
+
+276
+00:24:11,900 --> 00:24:13,370
+<font face="Noto Sans"><font size="90"><b>Somewhat.</b></font></font>
+
+277
+00:24:16,160 --> 00:24:17,940
+<font face="Noto Sans"><font size="90"><b>We are quite alike, then.</b></font></font>
+
+278
+00:25:50,250 --> 00:25:53,010
+<font face="Noto Sans"><font size="90"><b>- Is Fern's training going well?
+- Are you trying to act tough again, Heiter?</b></font></font>
+
+279
+00:25:53,010 --> 00:25:54,170
+<font face="Noto Sans"><font size="90"><b>- Magic really is amazing.
+- But it's worth looking at.</b></font></font>
+
+280
+00:25:54,170 --> 00:25:55,180
+<font face="Noto Sans"><font size="90"><b>You've been collecting nothing
+but strange spells.</b></font></font>
+
+281
+00:25:55,180 --> 00:25:57,660
+<font face="Noto Sans"><font size="90"><b>-I think it would be a waste for you to die now.
+- I hope one day I can show them to you.</b></font></font>
+
+282
+00:25:57,580 --> 00:25:59,910
+<font face="Noto Sans"><font size="65">{\an5}<font size="80"><font color="#fdfffd">Episode 2</font><font size="65"></font></font></font></font>
+
+283
+00:25:57,580 --> 00:25:59,910
+<font face="Noto Sans"><font size="65">{\an5}<font size="100"><font color="#fdfffd">It Didn't Have to Be Magic…</font><font size="65"></font></font></font></font>
+
+284
+00:25:57,660 --> 00:25:59,910
+<font face="Noto Sans"><font size="90"><b>It didn't have to be magic.</b></font></font>
+

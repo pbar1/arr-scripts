@@ -1,0 +1,3 @@
+[workspace]
+members = ["sonarr-script"]
+resolver = "2"
