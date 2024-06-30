@@ -27,7 +27,7 @@ enum EventType {
 #[derive(Debug, Clone, Parser)]
 struct Cli {
     /// Sonarr event type
-    #[clap(long, env = "sonarr_eventtype")]
+    #[clap(long, env = "sonarr_eventtype", default_value = "Download")]
     pub eventtype: EventType,
 
     /// `True` when an existing file is upgraded, `False` otherwise
@@ -35,12 +35,8 @@ struct Cli {
     pub isupgrade: Option<String>,
 
     /// Full path to the episode file
-    #[clap(long, env = "sonarr_episodefile_path")]
+    #[clap(short = 'i', long, env = "sonarr_episodefile_path")]
     pub episodefile_path: Option<PathBuf>,
-
-    /// Comma-delimited list of episode numbers
-    #[clap(long, env = "sonarr_episodefile_episodenumbers")]
-    pub episodefile_episodenumbers: Option<String>,
 }
 
 fn main() -> anyhow::Result<ExitCode> {
@@ -65,16 +61,13 @@ fn handle_test(_cli: &Cli) -> anyhow::Result<()> {
 }
 
 fn handle_download(cli: &Cli) -> anyhow::Result<()> {
-    let isupgrade = cli
-        .isupgrade
-        .clone()
-        .context("sonarr_isupgrade must not be empty")?;
+    let isupgrade = &cli.isupgrade;
     let episodefile_path = cli
         .episodefile_path
         .clone()
         .context("sonarr_episodefile_path must not be empty")?;
 
-    info!(%isupgrade, episodefile_path = %episodefile_path.to_string_lossy(), "download event");
+    info!(?isupgrade, episodefile_path = %episodefile_path.to_string_lossy(), "download event");
 
     let episodefile_stem = episodefile_path
         .file_stem()
