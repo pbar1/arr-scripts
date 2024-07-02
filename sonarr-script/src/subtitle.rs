@@ -151,14 +151,14 @@ fn map_language_code(input: &str) -> String {
     }
 }
 
-fn clean_srt_file(srt_file: impl AsRef<Path>) -> anyhow::Result<()> {
+pub fn clean_srt_file(srt_file: impl AsRef<Path>) -> anyhow::Result<()> {
     let mut srt = SubRipSubtitle::from_path(srt_file.as_ref())?;
     srt.strip_formatting();
     srt.export(srt_file.as_ref())?;
     Ok(())
 }
 
-fn ensure_hanzi(srt_file: impl AsRef<Path>) -> anyhow::Result<()> {
+pub fn ensure_hanzi(srt_file: impl AsRef<Path>) -> anyhow::Result<()> {
     let srt_file = srt_file.as_ref();
     let srt = SubRipSubtitle::from_path(srt_file)?;
     for event in srt.events() {
@@ -195,7 +195,7 @@ fn get_best_srt_cht(subtitle_dir: impl AsRef<Path>) -> Option<PathBuf> {
     get_best_srt(subtitle_dir, ".zh-TW.srt").ok()
 }
 
-fn merge_srt(base: impl AsRef<Path>, secondary: impl AsRef<Path>) -> anyhow::Result<PathBuf> {
+pub fn merge_srt(base: impl AsRef<Path>, secondary: impl AsRef<Path>) -> anyhow::Result<PathBuf> {
     let output = base.as_ref().with_extension("merged");
 
     let base_srt = SubRipSubtitle::from_path(base.as_ref())?;
