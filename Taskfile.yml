@@ -27,7 +27,7 @@ tasks:
     deps:
     - build
     cmds:
-    - test/sonarr-script
+    - test/test-sonarr-subtitle-merge
 
   image:
     aliases: ["i", "img"]
