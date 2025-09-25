@@ -2,14 +2,14 @@ use std::collections::HashSet;
 use std::path::Path;
 use std::path::PathBuf;
 
-use anyhow::bail;
 use anyhow::Context;
-use aspasia::subrip::SubRipEvent;
+use anyhow::bail;
 use aspasia::SubRipSubtitle;
 use aspasia::Subtitle;
 use aspasia::TextEvent;
 use aspasia::TextEventInterface;
 use aspasia::TextSubtitle;
+use aspasia::subrip::SubRipEvent;
 use regex::Regex;
 use tracing::info;
 
@@ -35,7 +35,7 @@ pub fn extract_and_merge(context: &SubtitleMergeContext) -> anyhow::Result<()> {
     let lang_filter = HashSet::from(["zh", "en"]);
     let codec_filter = HashSet::from(["srt", "subrip", "ass", "ssa", "mov_text", "webvtt", "ttml"]); // ffmpeg -codecs
 
-    let subtitle_streams = get_subtitle_streams(&media_file)?;
+    let subtitle_streams = get_subtitle_streams(media_file)?;
     for ref s in subtitle_streams {
         info!(stream_id = %s.stream_id, language_code = %s.language_code, codec = %s.codec, "found subtitle stream");
         if !lang_filter.contains(s.language_code.as_str())
@@ -97,15 +97,9 @@ fn get_subtitle_streams(media_file: impl AsRef<Path>) -> anyhow::Result<Vec<Subt
     let subtitle_streams: Vec<SubtitleStream> = re
         .captures_iter(&mediainfo)
         .flat_map(|capture| {
-            let Some(stream_id) = capture.name("stream") else {
-                return None;
-            };
-            let Some(language_code) = capture.name("lang") else {
-                return None;
-            };
-            let Some(codec) = capture.name("codec") else {
-                return None;
-            };
+            let stream_id = capture.name("stream")?;
+            let language_code = capture.name("lang")?;
+            let codec = capture.name("codec")?;
             let language_code = map_language_code(language_code.as_str());
             Some(SubtitleStream {
                 source_file: PathBuf::from(media_file.as_ref()),
@@ -196,6 +190,11 @@ fn get_best_srt_cht(subtitle_dir: impl AsRef<Path>) -> Option<PathBuf> {
 }
 
 pub fn merge_srt(base: impl AsRef<Path>, secondary: impl AsRef<Path>) -> anyhow::Result<PathBuf> {
+    info!(
+        base = %base.as_ref().to_string_lossy(),
+        secondary = %secondary.as_ref().to_string_lossy(),
+        "Merging SRT"
+    );
     let output = base.as_ref().with_extension("merged");
 
     let base_srt = SubRipSubtitle::from_path(base.as_ref())?;
@@ -216,5 +215,7 @@ pub fn merge_srt(base: impl AsRef<Path>, secondary: impl AsRef<Path>) -> anyhow:
     output_srt.renumber();
 
     output_srt.export(&output)?;
+    info!(output = %output.as_path().to_string_lossy(), "Merged and wrote SRT");
+
     Ok(output)
 }
