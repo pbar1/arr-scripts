@@ -52,7 +52,7 @@ impl Args {
         match output_format {
             aspasia::Format::Ass => {
                 let o = AssSubtitle::from(input_subtitle);
-                o.export(self.output.clone().unwrap());
+                o.export(self.output.clone().unwrap())?;
             }
             _ => todo!(),
         }

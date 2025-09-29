@@ -66,12 +66,12 @@ pub fn extract_and_merge(context: &SubtitleMergeContext) -> anyhow::Result<()> {
 
     // FIXME: Extract the repeated extension stuff
     if let Some(chs) = get_best_srt_chs(&subtitle_dir) {
-        let merged = merge_srt(&chs, &en)?;
+        let merged = merge_subtitle_files(&chs, &en)?;
         let live_chs = media_file.with_extension("zh.srt");
         std::fs::copy(&merged, live_chs)?;
     }
     if let Some(cht) = get_best_srt_cht(&subtitle_dir) {
-        let merged = merge_srt(&cht, &en)?;
+        let merged = merge_subtitle_files(&cht, &en)?;
         let live_cht = media_file.with_extension("zh-TW.srt");
         std::fs::copy(&merged, live_cht)?;
     }
@@ -203,18 +203,23 @@ fn get_best_srt_cht(subtitle_dir: impl AsRef<Path>) -> Option<PathBuf> {
     get_best_srt(subtitle_dir, ".zh-TW.srt").ok()
 }
 
-pub fn merge_srt(base: impl AsRef<Path>, secondary: impl AsRef<Path>) -> anyhow::Result<PathBuf> {
+pub fn merge_subtitle_files(bottom: &Path, top: &Path) -> Result<PathBuf> {
     info!(
-        base = %base.as_ref().to_string_lossy(),
-        secondary = %secondary.as_ref().to_string_lossy(),
-        "Merging SRT"
+        bottom = %bottom.to_string_lossy(),
+        top = %top.to_string_lossy(),
+        "Merging subtitle files"
     );
-    let output = base.as_ref().with_extension("merged");
+    let output = bottom.with_extension("merged.srt");
 
-    let base_srt = SubRipSubtitle::from_path(base.as_ref())?;
-    let mut secondary_srt = SubRipSubtitle::from_path(secondary.as_ref())?;
+    // Converts non-SRT into SRT format in memory
+    let bottom_subs: SubRipSubtitle = TimedSubtitleFile::new(bottom)
+        .context("error loading bottom subtitle file")?
+        .into();
+    let mut top_subs: SubRipSubtitle = TimedSubtitleFile::new(top)
+        .context("error loading top subtitle file")?
+        .into();
 
-    for event in secondary_srt.events_mut() {
+    for event in top_subs.events_mut() {
         // move text to top screen with this formatting directive
         let mut text = String::from(r"{\an8}");
         text.push_str(&event.text);
@@ -222,14 +227,14 @@ pub fn merge_srt(base: impl AsRef<Path>, secondary: impl AsRef<Path>) -> anyhow:
     }
 
     let mut output_events: Vec<SubRipEvent> = Vec::new();
-    output_events.extend_from_slice(base_srt.events());
-    output_events.extend_from_slice(secondary_srt.events());
+    output_events.extend_from_slice(bottom_subs.events());
+    output_events.extend_from_slice(top_subs.events());
     output_events.sort_by(|a, b| a.start.cmp(&b.start));
     let mut output_srt = SubRipSubtitle::from_events(output_events);
     output_srt.renumber();
 
     output_srt.export(&output)?;
-    info!(output = %output.as_path().to_string_lossy(), "Merged and wrote SRT");
+    info!(output = %output.to_string_lossy(), "Wrote merged subtitle file");
 
     Ok(output)
 }
