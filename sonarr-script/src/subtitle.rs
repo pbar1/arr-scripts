@@ -3,12 +3,14 @@ use std::path::Path;
 use std::path::PathBuf;
 
 use anyhow::Context;
+use anyhow::Result;
 use anyhow::bail;
 use aspasia::SubRipSubtitle;
 use aspasia::Subtitle;
 use aspasia::TextEvent;
 use aspasia::TextEventInterface;
 use aspasia::TextSubtitle;
+use aspasia::TimedSubtitleFile;
 use aspasia::subrip::SubRipEvent;
 use regex::Regex;
 use tracing::info;
@@ -48,7 +50,7 @@ pub fn extract_and_merge(context: &SubtitleMergeContext) -> anyhow::Result<()> {
         let dumped = dump_subtitle_file(s, &subtitle_dir)?;
 
         info!(file = %dumped.to_string_lossy(), "cleaning subtitle file");
-        clean_srt_file(&dumped)?;
+        clean_subtitle_file(&dumped)?;
 
         if s.language_code == "zh" {
             info!(file = %dumped.to_string_lossy(), "ensuring chinese character classification");
@@ -145,10 +147,22 @@ fn map_language_code(input: &str) -> String {
     }
 }
 
-pub fn clean_srt_file(srt_file: impl AsRef<Path>) -> anyhow::Result<()> {
-    let mut srt = SubRipSubtitle::from_path(srt_file.as_ref())?;
-    srt.strip_formatting();
-    srt.export(srt_file.as_ref())?;
+pub fn clean_subtitle_file(subtitle_file: &Path) -> Result<()> {
+    let mut subtitle = TimedSubtitleFile::new(subtitle_file)
+        .context("error opening subtitle file for cleaning")?;
+
+    match &mut subtitle {
+        TimedSubtitleFile::Ssa(s) => s.strip_formatting(),
+        TimedSubtitleFile::Ass(s) => s.strip_formatting(),
+        TimedSubtitleFile::SubRip(s) => s.strip_formatting(),
+        TimedSubtitleFile::WebVtt(s) => s.strip_formatting(),
+        TimedSubtitleFile::MicroDvd(s) => s.strip_formatting(),
+    }
+
+    subtitle
+        .export(subtitle_file)
+        .context("error writing cleaned subtitle file")?;
+
     Ok(())
 }
 

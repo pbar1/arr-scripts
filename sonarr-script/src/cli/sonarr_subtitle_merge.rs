@@ -3,8 +3,8 @@ use std::path::PathBuf;
 use anyhow::Context;
 use tracing::info;
 
+use crate::subtitle;
 use crate::subtitle::SubtitleMergeContext;
-use crate::subtitle::{self};
 
 #[derive(Debug, Clone, clap::Args)]
 pub struct Args {

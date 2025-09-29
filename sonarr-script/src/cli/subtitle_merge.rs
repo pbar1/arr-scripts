@@ -2,7 +2,7 @@ use std::path::PathBuf;
 
 use tracing::info;
 
-use crate::subtitle::{self};
+use crate::subtitle;
 
 #[derive(Debug, Clone, clap::Args)]
 pub struct Args {
@@ -16,12 +16,12 @@ pub struct Args {
 impl Args {
     pub fn run(&self) -> anyhow::Result<()> {
         // FIXME: This is destructive
-        subtitle::clean_srt_file(&self.primary)?;
-        subtitle::clean_srt_file(&self.secondary)?;
+        subtitle::clean_subtitle_file(&self.primary)?;
+        subtitle::clean_subtitle_file(&self.secondary)?;
         info!("cleaned input subtitles");
 
         let _merged = subtitle::merge_srt(&self.primary, &self.secondary)?;
-        info!("mergend subtitles");
+        info!("merged subtitles");
 
         Ok(())
     }
