@@ -7,8 +7,30 @@ use aspasia::TextSubtitle;
 use aspasia::TimedSubtitleFile;
 use counter::Counter;
 pub use lingua::Language;
-use lingua::LanguageDetector;
 use lingua::LanguageDetectorBuilder;
+
+macro_rules! timed_subtitle {
+    // immutable case
+    ($inner:expr, |$s:ident| $body:expr) => {
+        match $inner {
+            TimedSubtitleFile::Ssa($s) => $body,
+            TimedSubtitleFile::Ass($s) => $body,
+            TimedSubtitleFile::SubRip($s) => $body,
+            TimedSubtitleFile::WebVtt($s) => $body,
+            TimedSubtitleFile::MicroDvd($s) => $body,
+        }
+    };
+    // mutable case
+    (&mut $inner:expr, |$s:ident| $body:expr) => {
+        match $inner {
+            TimedSubtitleFile::Ssa($s) => $body,
+            TimedSubtitleFile::Ass($s) => $body,
+            TimedSubtitleFile::SubRip($s) => $body,
+            TimedSubtitleFile::WebVtt($s) => $body,
+            TimedSubtitleFile::MicroDvd($s) => $body,
+        }
+    };
+}
 
 pub struct SubtitleTrack {
     inner: TimedSubtitleFile,
@@ -26,38 +48,24 @@ impl SubtitleTrack {
             .context("Failed saving subtitle file")
     }
 
-    pub fn strip_formatting(&mut self) {
-        match &mut self.inner {
-            TimedSubtitleFile::Ssa(s) => s.strip_formatting(),
-            TimedSubtitleFile::Ass(s) => s.strip_formatting(),
-            TimedSubtitleFile::SubRip(s) => s.strip_formatting(),
-            TimedSubtitleFile::WebVtt(s) => s.strip_formatting(),
-            TimedSubtitleFile::MicroDvd(s) => s.strip_formatting(),
-        };
-    }
-
     pub fn detect_chinese_traditional(&self) -> bool {
         let f = |text: &str| text.contains('們');
-        match &self.inner {
-            TimedSubtitleFile::Ssa(s) => s.events().iter().any(|e| f(&e.text)),
-            TimedSubtitleFile::Ass(s) => s.events().iter().any(|e| f(&e.text)),
-            TimedSubtitleFile::SubRip(s) => s.events().iter().any(|e| f(&e.text)),
-            TimedSubtitleFile::WebVtt(s) => s.events().iter().any(|e| f(&e.text)),
-            TimedSubtitleFile::MicroDvd(s) => s.events().iter().any(|e| f(&e.text)),
-        }
+        timed_subtitle!(&self.inner, |s| s.events().iter().any(|e| f(&e.text)))
     }
 
     pub fn detect_predominant_language(&self, languages: &[Language]) -> Option<Language> {
         let detector = LanguageDetectorBuilder::from_languages(languages).build();
         let f = |text: &str| detector.detect_language_of(text);
-        let languages: Counter<_> = match &self.inner {
-            TimedSubtitleFile::Ssa(s) => s.events().iter().map(|e| f(&e.text)).collect(),
-            TimedSubtitleFile::Ass(s) => s.events().iter().map(|e| f(&e.text)).collect(),
-            TimedSubtitleFile::SubRip(s) => s.events().iter().map(|e| f(&e.text)).collect(),
-            TimedSubtitleFile::WebVtt(s) => s.events().iter().map(|e| f(&e.text)).collect(),
-            TimedSubtitleFile::MicroDvd(s) => s.events().iter().map(|e| f(&e.text)).collect(),
-        };
+        let languages: Counter<_> = timed_subtitle!(&self.inner, |s| s
+            .events()
+            .iter()
+            .map(|e| f(&e.text))
+            .collect());
         languages.k_most_common_ordered(1).first()?.0
+    }
+
+    pub fn strip_formatting(&mut self) {
+        timed_subtitle!(&mut self.inner, |s| s.strip_formatting());
     }
 }
 
