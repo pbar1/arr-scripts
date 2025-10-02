@@ -25,3 +25,4 @@ Cargo.lock
 test/media/
 test/bin/
 working/
+**/*.test
