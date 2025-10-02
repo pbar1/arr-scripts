@@ -10,7 +10,6 @@ pub use lingua::Language;
 use lingua::LanguageDetectorBuilder;
 
 macro_rules! timed_subtitle {
-    // immutable case
     ($inner:expr, |$s:ident| $body:expr) => {
         match $inner {
             TimedSubtitleFile::Ssa($s) => $body,
@@ -19,16 +18,7 @@ macro_rules! timed_subtitle {
             TimedSubtitleFile::WebVtt($s) => $body,
             TimedSubtitleFile::MicroDvd($s) => $body,
         }
-    }; /* // mutable case
-        * (&mut $inner:expr, |$s:ident| $body:expr) => {
-        *     match $inner {
-        *         TimedSubtitleFile::Ssa($s) => $body,
-        *         TimedSubtitleFile::Ass($s) => $body,
-        *         TimedSubtitleFile::SubRip($s) => $body,
-        *         TimedSubtitleFile::WebVtt($s) => $body,
-        *         TimedSubtitleFile::MicroDvd($s) => $body,
-        *     }
-        * }; */
+    };
 }
 
 pub struct SubtitleTrack {
