@@ -50,22 +50,25 @@ impl SubtitleTrack {
 
     pub fn detect_chinese_traditional(&self) -> bool {
         let f = |text: &str| text.contains('們');
-        timed_subtitle!(&self.inner, |s| s.events().iter().any(|e| f(&e.text)))
+        timed_subtitle!(&self.inner, |subtitle| subtitle
+            .events()
+            .iter()
+            .any(|event| f(&event.text)))
     }
 
     pub fn detect_predominant_language(&self, languages: &[Language]) -> Option<Language> {
         let detector = LanguageDetectorBuilder::from_languages(languages).build();
         let f = |text: &str| detector.detect_language_of(text);
-        let languages: Counter<_> = timed_subtitle!(&self.inner, |s| s
+        let languages: Counter<_> = timed_subtitle!(&self.inner, |subtitle| subtitle
             .events()
             .iter()
-            .map(|e| f(&e.text))
+            .map(|event| f(&event.text))
             .collect());
         languages.k_most_common_ordered(1).first()?.0
     }
 
     pub fn strip_formatting(&mut self) {
-        timed_subtitle!(&mut self.inner, |s| s.strip_formatting());
+        timed_subtitle!(&mut self.inner, |subtitle| subtitle.strip_formatting());
     }
 }
 
