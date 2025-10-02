@@ -6,6 +6,7 @@ use crate::cli::Cli;
 use crate::cli::SubCommand;
 
 mod cli;
+mod sub;
 mod subtitle;
 
 fn main() -> anyhow::Result<ExitCode> {

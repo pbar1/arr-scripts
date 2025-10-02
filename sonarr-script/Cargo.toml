@@ -8,8 +8,12 @@ anyhow = "1"
 aspasia = "0.2"
 camino = "1.2.0"
 clap = { version = "4", features = ["derive", "env"] }
+counter = "0.7.0"
 dialoguer = "0.11"
 lingua = "1.7.2"
 regex = "1"
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+
+[dev-dependencies]
+rstest = "0.26.1"
