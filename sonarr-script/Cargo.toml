@@ -5,8 +5,8 @@ edition = "2024"
 
 [dependencies]
 anyhow = "1"
-# aspasia = "0.2"
-aspasia = { path = "../../aspasia" }
+aspasia = "0.2"
+# aspasia = { path = "../../aspasia" }
 camino = "1.2.0"
 clap = { version = "4", features = ["derive", "env"] }
 counter = "0.7.0"
