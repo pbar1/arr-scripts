@@ -19,6 +19,7 @@ fn main() -> anyhow::Result<ExitCode> {
         }
         Cli::Merge(args) | Cli::Default(SubCommand::Merge(args)) => args.run(),
         Cli::Convert(args) | Cli::Default(SubCommand::Convert(args)) => args.run(),
+        Cli::Clean(args) | Cli::Default(SubCommand::Clean(args)) => args.run(),
     }
     .map(|_| ExitCode::SUCCESS)
 }

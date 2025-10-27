@@ -1,3 +1,4 @@
+mod clean;
 mod convert;
 mod merge;
 mod sonarr_subtitle_merge;
@@ -13,6 +14,7 @@ pub enum Cli {
     SonarrSubtitleMerge(sonarr_subtitle_merge::Args),
     Merge(merge::Args),
     Convert(convert::Args),
+    Clean(clean::Args),
 }
 
 #[derive(Debug, clap::Subcommand)]
@@ -25,4 +27,7 @@ pub enum SubCommand {
 
     /// Convert subtitle files
     Convert(convert::Args),
+
+    /// Clean subtitle files
+    Clean(clean::Args),
 }

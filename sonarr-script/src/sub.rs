@@ -1,3 +1,4 @@
+use std::collections::HashSet;
 use std::path::Path;
 
 use anyhow::Context;
@@ -12,44 +13,42 @@ use counter::Counter;
 pub use lingua::Language;
 use lingua::LanguageDetectorBuilder;
 
-macro_rules! timed_subtitle {
-    ($inner:expr, |$s:ident| $body:expr) => {
-        match $inner {
-            TimedSubtitleFile::Ssa($s) => $body,
-            TimedSubtitleFile::Ass($s) => $body,
-            TimedSubtitleFile::SubRip($s) => $body,
-            TimedSubtitleFile::WebVtt($s) => $body,
-            TimedSubtitleFile::MicroDvd($s) => $body,
-        }
-    };
-}
+// TODO: Clear very short events
+// TODO: Clear drawings containing \\p\d (ie, \p1)
+// TODO: Clear .ass styles by name (ie, signs)
 
 pub struct SubtitleTrack {
-    inner: TimedSubtitleFile,
+    inner: AssSubtitle,
 }
 
 impl SubtitleTrack {
-    /// Loads a subtitle track from a file.
-    pub fn load(path: &Path) -> Result<Self> {
-        let inner = TimedSubtitleFile::new(path).context("Failed loading subtitle file")?;
+    /// Loads a subtitle track from a file. It will automatically be converted
+    /// into ASS in memory.
+    pub fn load(path: impl AsRef<Path>) -> Result<Self> {
+        let inner = TimedSubtitleFile::new(path)
+            .context("Failed loading subtitle file")?
+            .into();
         Ok(Self { inner })
     }
 
-    /// Saves a subtitle track to a file.
-    pub fn save(&self, path: &Path) -> Result<()> {
+    /// Saves subtitle track to an ASS file.
+    pub fn save(&self, path: impl AsRef<Path>) -> Result<()> {
         self.inner
             .export(path)
             .context("Failed saving subtitle file")
+    }
+
+    /// Saves subtitle track to an SRT file.
+    pub fn save_srt(self, path: impl AsRef<Path>) -> Result<()> {
+        let srt: SubRipSubtitle = self.inner.into();
+        srt.export(path).context("Failed saving subtitle file")
     }
 
     /// Detects if the subtitle text events contain traditional Chinese
     /// characters.
     pub fn detect_chinese_traditional(&self) -> bool {
         let f = |text: &str| text.contains('們');
-        timed_subtitle!(&self.inner, |subtitle| subtitle
-            .events()
-            .iter()
-            .any(|event| f(&event.text)))
+        self.inner.events().iter().any(|event| f(&event.text))
     }
 
     /// Detects the most frequently occurring language by events in the
@@ -57,44 +56,60 @@ impl SubtitleTrack {
     pub fn detect_predominant_language(&self, languages: &[Language]) -> Option<Language> {
         let detector = LanguageDetectorBuilder::from_languages(languages).build();
         let f = |text: &str| detector.detect_language_of(text);
-        let languages: Counter<_> = timed_subtitle!(&self.inner, |subtitle| subtitle
+        let languages: Counter<_> = self
+            .inner
             .events()
             .iter()
             .map(|event| f(&event.text))
-            .collect());
+            .collect();
         languages.k_most_common_ordered(1).first()?.0
     }
 
     /// Removes formatting directives and styles.
     pub fn strip_formatting(&mut self) {
-        timed_subtitle!(&mut self.inner, |subtitle| subtitle.strip_formatting());
+        self.inner.strip_formatting();
     }
 
     /// Sets the text of lines longer than some threshold to the empty string.
     pub fn clear_long_lines(&mut self, max_chars: usize) {
-        timed_subtitle!(&mut self.inner, |subtitle| subtitle
-            .events_mut()
-            .iter_mut()
-            .for_each(|event| {
-                if event.text.len() > max_chars {
-                    event.set_text(String::default());
-                }
-            }))
+        self.inner.events_mut().iter_mut().for_each(|event| {
+            if event.text.len() > max_chars {
+                event.set_text(String::default());
+            }
+        })
     }
 
-    /// Convert the subtitle track into `SRT` format.
-    pub fn into_srt(self) -> Self {
-        let inner: SubRipSubtitle = self.inner.into();
-        Self {
-            inner: TimedSubtitleFile::SubRip(inner),
+    /// Sets the text of events with rejected styles names to the empty string.
+    pub fn clear_events_with_styles(&mut self, style_names: HashSet<String>) {
+        for event in self.inner.events_mut() {
+            if let Some(style) = &event.style
+                && style_names.contains(&style.to_lowercase())
+            {
+                event.set_text(String::default());
+            }
         }
     }
 
-    /// Convert the subtitle track into `ASS` format.
-    pub fn into_ass(self) -> Self {
-        let inner: AssSubtitle = self.inner.into();
-        Self {
-            inner: TimedSubtitleFile::Ass(inner),
+    /// Assumes that other rules have caught pretty offending style names, and
+    /// so rejects the rest of their events too.
+    pub fn clear_events_whose_style_has_many_existing_blanks(&mut self) {
+        let styles_by_blanks: Counter<_> = self
+            .inner
+            .events()
+            .iter()
+            .filter(|event| event.text.is_empty())
+            .filter_map(|event| event.style.to_owned())
+            .collect();
+        for event in self.inner.events_mut() {
+            let Some(style) = &event.style else {
+                continue;
+            };
+            let Some(blanks) = styles_by_blanks.get(style) else {
+                continue;
+            };
+            if *blanks > 20 {
+                event.set_text(String::default());
+            }
         }
     }
 }
@@ -107,7 +122,6 @@ mod tests {
     use rstest::rstest;
 
     use super::*;
-    use crate::sub;
 
     #[rstest]
     #[case("../test/jjk_s02e01/extracted.en.ass", Language::English)]
@@ -145,12 +159,14 @@ mod tests {
     #[case("../test/jjk_s02e01/extracted.zh.ass")]
     #[case("../test/jjk_s02e01/extracted.zh-TW.ass")]
     fn test_helper(#[case] path: &str) {
-        let out = format!("{path}.test");
+        let out = path.replace("extracted", "cleaned");
         let out = PathBuf::from_str(&out).unwrap();
         let path = PathBuf::from_str(path).unwrap();
         let mut subtitle = SubtitleTrack::load(&path).unwrap();
         subtitle.strip_formatting();
+        // subtitle.clear_events_with_styles(HashSet::from_iter(["signs".to_owned()]));
         subtitle.clear_long_lines(140);
-        subtitle.into_ass().save(&out).unwrap();
+        subtitle.clear_events_whose_style_has_many_existing_blanks();
+        subtitle.save(&out).unwrap();
     }
 }

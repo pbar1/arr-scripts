@@ -1,0 +1,1382 @@
+[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+Script Type: v4.00+
+PlayResY: 1080
+PlayResX: 1920
+WrapStyle: 0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:05.41,0:00:07.83,Default,Geto,0,0,0,,Things were busy that summer.  
+Dialogue: 10,0:00:08.87,0:00:13.29,Default,Geto,0,0,0,,Perhaps due to all those frequent disasters last year.
+Dialogue: 10,0:00:14.00,0:00:16.34,Default,Geto,0,0,0,,Curses were springing up like maggots.
+Dialogue: 10,0:00:45.41,0:00:47.87,Default,Geto,0,0,0,,Exorcise. Consume.
+Dialogue: 10,0:00:47.87,0:00:49.33,Default,Geto,0,0,0,,Over and over.
+Dialogue: 10,0:00:54.13,0:00:55.13,Default,Geto,0,0,0,,Exorcise.
+Dialogue: 10,0:00:55.63,0:00:56.59,Default,Geto,0,0,0,,Consume.
+Dialogue: 10,0:00:57.84,0:00:59.51,Default,Geto,0,0,0,,It's a taste nobody knows.
+Dialogue: 10,0:00:59.92,0:01:01.59,Default,Geto,0,0,0,,The taste of a curse.
+Dialogue: 10,0:01:03.55,0:01:07.81,Default,Geto,0,0,0,,Like swallowing a rag used to wipe up shit and vomit.
+Dialogue: 10,0:01:08.73,0:01:09.60,Default,Geto,0,0,0,,Exorcise.
+Dialogue: 10,0:01:10.52,0:01:11.85,Default,Geto,0,0,0,,Consume.
+Dialogue: 10,0:01:12.90,0:01:16.11,Default,Geto,0,0,0,,What I witnessed was nothing out of the ordinary.
+Dialogue: 10,0:01:16.11,0:01:17.98,Default,Geto,0,0,0,,Just the ugliness of the masses.
+Dialogue: 10,0:01:18.74,0:01:24.45,Default,Geto,0,0,0,,Despite knowing that, I still chose to be\N a sorcerer who saves others.
+Dialogue: 10,0:01:26.45,0:01:30.04,Default,Geto,0,0,0,,That's what I've been telling myself ever since that day.
+Dialogue: 10,0:01:31.04,0:01:32.37,Default,Geto,0,0,0,,Ever since that day.
+Dialogue: 10,0:01:34.88,0:01:36.34,Default,Utahime,0,0,0,,This building
+Dialogue: 10,0:01:36.34,0:01:42.72,Default,Utahime,0,0,0,,belonged to the president of a company that ran\N a chain of barbecue restaurants in the area.
+Dialogue: 10,0:01:43.63,0:01:52.02,Default,Utahime,0,0,0,,However, his business suffered a devastating blow\N due to the mad cow disease outbreak last July.
+Dialogue: 10,0:01:52.02,0:01:55.52,Default,Utahime,0,0,0,,Burdened by huge debts,\N he committed suicide with his family.
+Dialogue: 10,0:01:55.52,0:01:59.36,Default,Utahime,0,0,0,,Since then, the mansion has become\N a well-known haunted location.
+Dialogue: 10,0:01:59.73,0:02:04.20,Default,Utahime,0,0,0,,From local school kids to college students\N from outside, and even part-timers,
+Dialogue: 10,0:02:04.20,0:02:08.37,Default,Utahime,0,0,0,,many visit it as a test of courage,\N and many of them go missing.
+Dialogue: 10,0:02:09.58,0:02:13.54,Default,Utahime,0,0,0,,As rumors continued to multiply,\Nthe damage must have kept on escalating.
+Dialogue: 10,0:02:14.37,0:02:18.88,Default,Mei Mei,0,0,0,,Rumors around haunted locations and such\N do tend to spread rather quickly.
+Dialogue: 10,0:02:19.34,0:02:25.39,Default,Mei Mei,0,0,0,,It's unbelievable how fast word gets around\N these days thanks to the Internet.
+Dialogue: 10,0:02:25.39,0:02:30.14,Default,Mei Mei,0,0,0,,All this just means more work for us sorcerers.
+Dialogue: 10,0:02:30.93,0:02:35.69,Default,Utahime,0,0,0,,Additionally, three elementary school kids\N went missing on their way home.
+Dialogue: 10,0:02:36.02,0:02:40.36,Default,Utahime,0,0,0,,Their friends, families, or the police\Nmust be out looking for them. 
+Dialogue: 10,0:02:40.36,0:02:45.53,Default,Utahime,0,0,0,,If they get to the mansion, there's a good chance\N they might end up as victims themselves.
+Dialogue: 10,0:02:46.24,0:02:49.49,Default,Utahime,0,0,0,,We have to sever the root\N of the problem as soon as possible.
+Dialogue: 10,0:02:50.62,0:02:55.21,Default,Mei Mei,0,0,0,,HQ seems to have the same idea.\NThat's why they sent me along to investigate.
+Dialogue: 10,0:02:55.79,0:02:58.38,Default,Mei Mei,0,0,0,,It must be important\Nif they're willing to pay my fees.
+Dialogue: 10,0:02:59.25,0:03:01.38,Default,Utahime,0,0,0,,Are you extorting them again?
+Dialogue: 10,0:03:01.84,0:03:03.97,Default,Mei Mei,0,0,0,,You make it sound so bad.
+Dialogue: 10,0:03:03.97,0:03:06.13,Default,Mei Mei,0,0,0,,Call it negotiation.
+Dialogue: 10,0:03:06.93,0:03:08.09,Default,Assistant Supervisor,0,0,0,,We're here.
+Dialogue: 10,0:03:09.01,0:03:10.85,Default,Mei Mei,0,0,0,,Let's go, then. 
+Dialogue: 10,0:03:16.23,0:03:18.69,Default,Utahime,0,0,0,,Emerge from the darkness that is darker than black.
+Dialogue: 10,0:03:18.69,0:03:19.81,Default,Utahime,0,0,0,,Purify that which—
+Dialogue: 10,0:03:20.69,0:03:22.48,Default,Mei Mei,0,0,0,,A Veil won't be necessary.
+Dialogue: 10,0:03:22.48,0:03:23.19,Default,Utahime,0,0,0,,Really?
+Dialogue: 10,0:03:24.36,0:03:26.82,Default,Mei Mei,0,0,0,,I don't sense the presence of any curses here.
+Dialogue: 10,0:03:26.82,0:03:30.53,Default,Mei Mei,0,0,0,,There's a very good chance that\N it's inside the building.
+Dialogue: 10,0:03:31.45,0:03:35.29,Default,Mei Mei,0,0,0,,You can cast the Veil later \Nif we end up attacking it from outside.
+Dialogue: 10,0:03:38.12,0:03:39.21,Default,Utahime,0,0,0,,It's unlocked.
+Dialogue: 10,0:03:40.46,0:03:42.50,Default,Utahime,0,0,0,,Seems like something's blocking the door.
+Dialogue: 10,0:03:46.09,0:03:47.47,Default,Utahime,0,0,0,,What is all this?
+Dialogue: 10,0:03:51.72,0:03:52.60,Default,Utahime,0,0,0,,Miss Mei.
+Dialogue: 10,0:03:53.81,0:03:54.85,Default,Mei Mei,0,0,0,,It's here.
+Dialogue: 10,0:03:55.56,0:03:57.77,Default,Mei Mei,0,0,0,,Its presence is all around us.
+Dialogue: 10,0:04:03.48,0:04:05.23,Default,Mei Mei,0,0,0,,Let's get to work.
+Dialogue: 10,0:04:05.23,0:04:07.95,Default,Mei Mei,0,0,0,,I don't need that, but I'm guessing you do.
+Dialogue: 10,0:04:08.91,0:04:11.28,Default,Utahime,0,0,0,,Thank you.
+Dialogue: 10,0:04:13.08,0:04:14.45,Default,Utahime,0,0,0,,All right.
+Dialogue: 10,0:04:25.34,0:04:27.97,Default,Utahime,0,0,0,,This place is huge!
+Dialogue: 10,0:04:30.47,0:04:32.72,Default,Utahime,0,0,0,,Oh, it still has electricity.
+Dialogue: 10,0:04:34.18,0:04:37.64,Default,Mei Mei,0,0,0,,Let's take a quick look around the building first.
+Dialogue: 10,0:04:37.64,0:04:40.77,Default,Mei Mei,0,0,0,,I'll take this floor. You take the second.
+Dialogue: 10,0:04:40.77,0:04:43.27,Default,Utahime,0,0,0,,Huh? All by myself?
+Dialogue: 10,0:04:43.27,0:04:45.32,Default,Mei Mei,0,0,0,,Is there a problem with that?
+Dialogue: 10,0:04:45.32,0:04:48.40,Default,Utahime,0,0,0,,N-No, i-it's fine.
+Dialogue: 10,0:04:48.74,0:04:50.40,Default,Mei Mei,0,0,0,,Off you go, then.
+Dialogue: 10,0:04:53.87,0:04:55.16,Default,Utahime,0,0,0,,Okay.
+Dialogue: 10,0:05:23.52,0:05:24.48,Default,Utahime,0,0,0,,Don't move!
+Dialogue: 10,0:05:29.36,0:05:29.99,Default,Utahime,0,0,0,,Aha!
+Dialogue: 10,0:05:29.99,0:05:30.65,Default,Utahime,0,0,0,,Huh!
+Dialogue: 10,0:05:30.65,0:05:31.24,Default,Utahime,0,0,0,,There!
+Dialogue: 10,0:05:31.24,0:05:31.86,Default,Utahime,0,0,0,,Here?
+Dialogue: 10,0:05:31.86,0:05:32.78,Default,Utahime,0,0,0,,Gotcha!
+Dialogue: 10,0:05:37.54,0:05:39.04,Default,Utahime,0,0,0,,This is the last one.
+Dialogue: 10,0:05:40.16,0:05:40.58,Default,,0,0,0,,Ha!
+Dialogue: 10,0:06:27.84,0:06:30.63,Default,Mei Mei,0,0,0,,You could be the next big Scream Queen.
+Dialogue: 10,0:06:33.72,0:06:37.05,Default,Utahime,0,0,0,,Jeez! Please don't startle me like that!
+Dialogue: 10,0:06:37.60,0:06:40.14,Default,Mei Mei,0,0,0,,You got startled all on your own.
+Dialogue: 10,0:06:41.10,0:06:43.77,Default,Utahime,0,0,0,,Are you done exploring the first floor?
+Dialogue: 10,0:06:45.23,0:06:45.90,Default,Mei Mei,0,0,0,,Hm?
+Dialogue: 10,0:06:46.98,0:06:48.52,Default,Mei Mei,0,0,0,,This is the first floor.
+Dialogue: 10,0:06:49.90,0:06:50.94,Default,Utahime,0,0,0,,Come again?
+Dialogue: 10,0:06:51.32,0:06:54.32,Default,Mei Mei,0,0,0,,I was walking down the first floor hallway.
+Dialogue: 10,0:06:54.95,0:06:56.66,Default,Utahime,0,0,0,,What? But...
+Dialogue: 10,0:06:57.32,0:07:02.45,Default,Utahime,0,0,0,,I know I entered a room at the end of the hallway...
+Dialogue: 10,0:07:03.91,0:07:05.50,Default,Mei Mei,0,0,0,,Boxes of snacks.
+Dialogue: 10,0:07:05.87,0:07:07.63,Default,Mei Mei,0,0,0,,Bags of chips.
+Dialogue: 10,0:07:08.17,0:07:08.67,Default,Mei Mei,0,0,0,,Juice cans.
+Dialogue: 10,0:07:09.21,0:07:10.50,Default,Mei Mei,0,0,0,,Backpack.
+Dialogue: 10,0:07:11.05,0:07:12.17,Default,Mei Mei,0,0,0,,Sweatshirt.
+Dialogue: 10,0:07:13.63,0:07:16.05,Default,Mei Mei,0,0,0,,I've seen these three times by now.
+Dialogue: 10,0:07:16.84,0:07:21.93,Default,Mei Mei,0,0,0,,Did you notice these marks?\N I made them on my way through here.
+Dialogue: 10,0:07:23.35,0:07:28.19,Default,Mei Mei,0,0,0,,It would seem that we're \Nalready inside the belly of the beast.
+Dialogue: 10,0:07:28.52,0:07:30.11,Default,Utahime,0,0,0,,No way...
+Dialogue: 10,0:07:36.07,0:07:37.53,Default,Utahime,0,0,0,,Seriously?
+Dialogue: 10,0:07:39.99,0:07:43.58,Default,Utahime,0,0,0,,How long is this hallway?
+Dialogue: 10,0:07:45.00,0:07:49.08,Default,Mei Mei,0,0,0,,We've been moving for thirty minutes, so about four kilometers so far.
+Dialogue: 10,0:07:50.13,0:07:53.05,Default,Utahime,0,0,0,,It's not an innate domain, is it?
+Dialogue: 10,0:07:53.71,0:07:54.76,Default,Mei Mei,0,0,0,,It's not.
+Dialogue: 10,0:07:55.21,0:07:58.09,Default,Mei Mei,0,0,0,,Those are manifestations of one's mindscape.
+Dialogue: 10,0:07:58.88,0:07:59.97,Default,Mei Mei,0,0,0,,Any other ideas?
+Dialogue: 10,0:08:00.47,0:08:01.76,Default,Utahime,0,0,0,,This must be a barrier.
+Dialogue: 10,0:08:02.39,0:08:03.47,Default,Mei Mei,0,0,0,,Correct.
+Dialogue: 10,0:08:03.89,0:08:09.19,Default,Mei Mei,0,0,0,,The victims were most likely trapped here too,\Nand eventually killed by the curse.
+Dialogue: 10,0:08:12.06,0:08:17.15,Default,Mei Mei,0,0,0,,Considering it's using techniques like this,\Nthe curse itself should be weak.
+Dialogue: 10,0:08:18.20,0:08:21.03,Default,Mei Mei,0,0,0,,If we can just escape this barrier...
+Dialogue: 10,0:08:24.03,0:08:25.75,Default,Mei Mei,0,0,0,,Time for a quiz.
+Dialogue: 10,0:08:25.75,0:08:29.12,Default,Mei Mei,0,0,0,,How would you break this, Utahime?
+Dialogue: 10,0:08:33.71,0:08:35.88,Default,Utahime,0,0,0,,This hallway is repeating itself.
+Dialogue: 10,0:08:35.88,0:08:37.72,Default,Utahime,0,0,0,,At first...
+Dialogue: 10,0:08:41.22,0:08:42.85,Default,Utahime,0,0,0,,I thought it was like this.
+Dialogue: 10,0:08:43.39,0:08:45.18,Default,Mei Mei,0,0,0,,Bold of you to touch them.
+Dialogue: 10,0:08:45.18,0:08:47.93,Default,Utahime,0,0,0,,I assumed it was shaped like a donut.
+Dialogue: 10,0:08:48.68,0:08:52.02,Default,Utahime,0,0,0,,But we passed by four of the marks you made, right?
+Dialogue: 10,0:08:52.56,0:08:55.69,Default,Utahime,0,0,0,,When I counted how many steps apart they were, I got...
+Dialogue: 10,0:08:55.69,0:08:56.78,Default,Utahime,0,0,0,,122,
+Dialogue: 10,0:08:56.78,0:08:58.24,Default,Utahime,0,0,0,,203,
+Dialogue: 10,0:08:58.24,0:08:59.40,Default,Utahime,0,0,0,,157,
+Dialogue: 10,0:08:59.40,0:09:00.70,Default,Utahime,0,0,0,,and 270 steps.
+Dialogue: 10,0:09:01.45,0:09:05.03,Default,Utahime,0,0,0,,So the spacing between marks was random.
+Dialogue: 10,0:09:05.62,0:09:06.95,Default,Mei Mei,0,0,0,,Interesting.
+Dialogue: 10,0:09:06.95,0:09:09.91,Default,Utahime,0,0,0,,The interval between repetitions isn't consistent.
+Dialogue: 10,0:09:09.91,0:09:14.71,Default,Utahime,0,0,0,,So I think... it must be something like this.
+Dialogue: 10,0:09:14.71,0:09:17.84,Default,Utahime,0,0,0,,The barrier is patching spaces together.
+Dialogue: 10,0:09:18.51,0:09:23.39,Default,Utahime,0,0,0,,I think if we both run down the hallway\N at top speed, then at some point...
+Dialogue: 10,0:09:27.64,0:09:28.52,Default,Utahime,0,0,0,,It'll break.
+Dialogue: 10,0:09:30.48,0:09:32.39,Default,Mei Mei,0,0,0,,Close. Ninety points.
+Dialogue: 10,0:09:32.39,0:09:33.40,Default,Utahime,0,0,0,,D'oh.
+Dialogue: 10,0:09:34.02,0:09:35.65,Default,Utahime,0,0,0,,What did I miss?
+Dialogue: 10,0:09:36.36,0:09:41.53,Default,Mei Mei,0,0,0,,Don't you think it would be more effective\N if we ran in opposite directions?
+Dialogue: 10,0:09:41.70,0:09:43.07,Default,Utahime,0,0,0,,I get it!
+Dialogue: 10,0:09:43.07,0:09:45.24,Default,Utahime,0,0,0,,If my patching theory is correct,
+Dialogue: 10,0:09:45.24,0:09:51.21,Default,Utahime,0,0,0,,running in opposite directions would make it harder\N for the curse to hold the barrier together.
+Dialogue: 10,0:09:51.21,0:09:54.21,Default,Utahime,0,0,0,,Once we have an opening, we might be able to escape!
+Dialogue: 10,0:09:54.21,0:09:55.46,Default,Mei Mei,0,0,0,,One hundred points.
+Dialogue: 10,0:09:55.46,0:09:56.84,Default,Utahime,0,0,0,,It's settled, then.
+Dialogue: 10,0:09:57.67,0:10:01.67,Default,Utahime,0,0,0,,If this works, I'll be expecting a promotion.
+Dialogue: 10,0:10:02.42,0:10:04.64,Default,Mei Mei,0,0,0,,How much do you have in savings?
+Dialogue: 10,0:10:04.64,0:10:05.47,Default,Utahime,0,0,0,,Pardon?
+Dialogue: 10,0:10:06.18,0:10:08.72,Default,Mei Mei,0,0,0,,Never mind. I'll think about it.
+Dialogue: 10,0:10:08.72,0:10:09.81,Default,Utahime,0,0,0,,Right!
+Dialogue: 10,0:10:10.56,0:10:11.64,Default,Utahime,0,0,0,,Ready.
+Dialogue: 10,0:10:12.35,0:10:13.94,Default,Utahime,0,0,0,,Set.
+Dialogue: 10,0:10:15.44,0:10:16.11,Default,Utahime,0,0,0,,Go!
+Dialogue: 10,0:10:21.61,0:10:22.70,Default,Utahime,0,0,0,,It worked!
+Dialogue: 10,0:10:23.15,0:10:25.03,Default,Utahime,0,0,0,,Wait, wha—
+Dialogue: 10,0:10:43.30,0:10:49.05,Default,Gojo,0,0,0,,I'm here to save your ass, Utahime.
+Dialogue: 10,0:12:19.85,0:12:21.31,Default,Gojo,0,0,0,,You cryin'?
+Dialogue: 10,0:12:21.31,0:12:23.23,Default,Utahime,0,0,0,,I'm not crying!
+Dialogue: 10,0:12:23.23,0:12:24.53,Default,Utahime,0,0,0,,Respect your seniors!
+Dialogue: 10,0:12:24.53,0:12:27.19,Default,Mei Mei,0,0,0,,If I was crying, would you console me?
+Dialogue: 10,0:12:27.19,0:12:29.28,Default,Mei Mei,0,0,0,,I would certainly appreciate that.
+Dialogue: 10,0:12:29.82,0:12:32.03,Default,Gojo,0,0,0,,Nah, I know you wouldn't cry, Miss Mei.
+Dialogue: 10,0:12:32.03,0:12:33.03,Default,Gojo,0,0,0,,You're strong.
+Dialogue: 10,0:12:34.33,0:12:35.37,Default,Mei Mei,0,0,0,,You think?
+Dialogue: 10,0:12:36.41,0:12:39.04,Default,Utahime,0,0,0,,Gojo! You listen here!
+Dialogue: 10,0:12:39.04,0:12:40.46,Default,Utahime,0,0,0,,I don't need your hel—
+Dialogue: 10,0:12:45.30,0:12:47.05,Default,Geto,0,0,0,,Don't swallow it.
+Dialogue: 10,0:12:47.05,0:12:48.34,Default,Geto,0,0,0,,I'll consume it later.
+Dialogue: 10,0:12:49.22,0:12:51.97,Default,Geto,0,0,0,,Satoru, it's not nice to pick on the weak.
+Dialogue: 10,0:12:52.34,0:12:55.18,Default,Gojo,0,0,0,,What kinda idiot picks on the strong? 
+Dialogue: 10,0:12:56.06,0:12:59.56,Default,Mei Mei,0,0,0,,You're the one who is picking on her, Geto.\N You don't even know it.
+Dialogue: 10,0:13:00.31,0:13:01.40,Default,Geto,0,0,0,,Oops.
+Dialogue: 10,0:13:01.40,0:13:02.94,Default,Shoko,0,0,0,,Utahime!
+Dialogue: 10,0:13:03.81,0:13:05.36,Default,Shoko,0,0,0,,Are you okay?
+Dialogue: 10,0:13:05.36,0:13:06.65,Default,Utahime,0,0,0,,Shoko!
+Dialogue: 10,0:13:06.65,0:13:10.74,Default,Shoko,0,0,0,,We hadn't heard from you for two whole days. I was worried.
+Dialogue: 10,0:13:10.74,0:13:13.74,Default,Utahime,0,0,0,,Shoko!
+Dialogue: 10,0:13:14.32,0:13:18.33,Default,Utahime,0,0,0,,Shoko! Don't turn out like those two, okay?!
+Dialogue: 10,0:13:18.83,0:13:21.75,Default,Shoko,0,0,0,,No way I'll become trash like them.
+Dialogue: 10,0:13:21.75,0:13:24.84,Default,Gojo,0,0,0,,Look at all the trash over there!
+Dialogue: 10,0:13:24.84,0:13:26.55,Default,Geto,0,0,0,,Shut up.
+Dialogue: 10,0:13:26.92,0:13:29.30,Default,Utahime,0,0,0,,Wait, two days?
+Dialogue: 10,0:13:30.17,0:13:34.43,Default,Gojo,0,0,0,,Ah, was it one of those barriers that\N mess with your perception of time?
+Dialogue: 10,0:13:34.43,0:13:36.85,Default,Gojo,0,0,0,,They're rare, but they do pop up\N every now and then.
+Dialogue: 10,0:13:36.85,0:13:39.68,Default,Gojo,0,0,0,,The whole situation did seem odd \Nsince Miss Mei was with you.
+Dialogue: 10,0:13:40.10,0:13:41.60,Default,Mei Mei,0,0,0,,That seems to be the case.
+Dialogue: 10,0:13:42.10,0:13:42.90,Default,Mei Mei,0,0,0,,Hm.
+Dialogue: 10,0:13:42.90,0:13:44.23,Default,Gojo,0,0,0,,Something on your mind?
+Dialogue: 10,0:13:44.23,0:13:48.19,Default,Mei Mei,0,0,0,,Oh, I just realized that I technically\N worked for two days.
+Dialogue: 10,0:13:48.19,0:13:52.78,Default,Mei Mei,0,0,0,,Maybe I should ask for additional compensation.
+Dialogue: 10,0:13:52.78,0:13:55.28,Default,Utahime,0,0,0,,She's planning another extortion...
+Dialogue: 10,0:13:55.28,0:13:57.28,Default,Mei Mei,0,0,0,,Back to the topic, you three.
+Dialogue: 10,0:13:57.28,0:13:58.29,Default,Mei Mei,0,0,0,,Where is the Veil?
+Dialogue: 10,0:14:02.29,0:14:06.21,Default,Announcer,0,0,0,,Next up is the explosion that occurred yesterday\N in Hamamatsu, Shizuoka.
+Dialogue: 10,0:14:06.21,0:14:08.75,Default,Announcer,0,0,0,,The explosion was caused due to degradation of gas pipes.
+Dialogue: 10,0:14:08.75,0:14:10.17,Default,Announcer,0,0,0,,Our reporter on the scene...
+Dialogue: 10,0:14:06.21,0:14:12.59,Default,Yaga,0,0,0,,One of you told the assistant supervisor that you'd\N cast the Veil yourself and left them behind.
+Dialogue: 10,0:14:12.59,0:14:15.14,Default,Yaga,0,0,0,,And then you forgot to do it.
+Dialogue: 10,0:14:15.14,0:14:16.47,Default,Yaga,0,0,0,,Who was it?
+Dialogue: 10,0:14:18.06,0:14:19.01,Default,Gojo,0,0,0,,Teach!
+Dialogue: 10,0:14:19.01,0:14:20.89,Default,Gojo,0,0,0,,We're better than pointing fingers at each other!
+Dialogue: 10,0:14:20.89,0:14:22.02,Default,Yaga,0,0,0,,So it was you, Satoru.
+Dialogue: 10,0:14:24.69,0:14:29.07,Default,Gojo,0,0,0,,Is a Veil even necessary in the first place?
+Dialogue: 10,0:14:29.86,0:14:32.74,Default,Gojo,0,0,0,,Does it even matter if normies see us?
+Dialogue: 10,0:14:32.74,0:14:35.45,Default,Gojo,0,0,0,,It's not like they can see curses or\N cursed techniques, anyway.
+Dialogue: 10,0:14:38.45,0:14:40.20,Default,Geto,0,0,0,,Of course it matters.
+Dialogue: 10,0:14:40.20,0:14:45.46,Default,Geto,0,0,0,,The primary factor preventing an outbreak\N of curses is the citizens' peace of mind.
+Dialogue: 10,0:14:46.08,0:14:51.84,Default,Geto,0,0,0,,That's why we have to conceal the\N threats they can't see as far as possible.
+Dialogue: 10,0:14:52.42,0:14:53.38,Default,Geto,0,0,0,,And that's not all—
+Dialogue: 10,0:14:53.38,0:14:54.80,Default,Gojo,0,0,0,,Yeah, yeah, I get it.
+Dialogue: 10,0:15:01.27,0:15:04.98,Default,Gojo,0,0,0,,Looking out for the weak is a pain in the ass, honestly.
+Dialogue: 10,0:15:04.98,0:15:05.19,Default,Gojo,0,0,0,,Looking out for the weak is a pain in the ass, honestly.
+Dialogue: 10,0:15:05.19,0:15:05.64,Default,Gojo,0,0,0,,Looking out for the weak is a pain in the ass, honestly.
+Dialogue: 10,0:15:06.40,0:15:08.11,Default,Geto,0,0,0,,Survival of the weakest.
+Dialogue: 10,0:15:08.11,0:15:10.90,Default,Geto,0,0,0,,That's the ideal form society should take.
+Dialogue: 10,0:15:10.90,0:15:13.57,Default,Geto,0,0,0,,Help the weak and keep the strong in check.
+Dialogue: 10,0:15:13.90,0:15:15.20,Default,Geto,0,0,0,,Listen carefully, Satoru.
+Dialogue: 10,0:15:15.53,0:15:18.70,Default,Geto,0,0,0,,Sorcerers exist to protect non-sorcerers.
+Dialogue: 10,0:15:19.87,0:15:24.75,Default,Gojo,0,0,0,,Is that your moral argument? I hate moral arguments.  
+Dialogue: 10,0:15:25.33,0:15:26.17,Default,Geto,0,0,0,,Excuse me?
+Dialogue: 10,0:15:26.79,0:15:32.96,Default,Gojo,0,0,0,,Assigning responsibilities to the strong\N in the name of some cause is what weak people do.
+Dialogue: 10,0:15:42.51,0:15:46.27,Default,Gojo,0,0,0,,Get off your high horse and\N quit spouting that feel-good bullshit.
+Dialogue: 10,0:15:47.27,0:15:48.40,Default,Gojo,0,0,0,,Blegh.
+Dialogue: 10,0:15:48.40,0:15:49.81,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:49.81,0:15:49.86,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:49.86,0:15:49.90,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:49.90,0:15:49.94,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:49.94,0:15:49.98,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:49.98,0:15:50.02,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:50.02,0:15:50.06,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:50.06,0:15:50.11,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:50.11,0:15:50.15,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:50.15,0:15:50.23,Default,Shoko,0,0,0,,I'm outta here.
+Dialogue: 10,0:15:50.73,0:15:53.48,Default,Geto,0,0,0,,Why don't we take this outside, Satoru?
+Dialogue: 10,0:15:53.90,0:15:55.61,Default,Gojo,0,0,0,,You feeling lonely?
+Dialogue: 10,0:15:55.61,0:15:56.90,Default,Gojo,0,0,0,,Go by yourself.
+Dialogue: 10,0:15:59.70,0:16:02.12,Default,Yaga,0,0,0,,How long are you going to keep fooling around?
+Dialogue: 10,0:16:02.12,0:16:03.29,Default,Yaga,0,0,0,,And where's Shoko?
+Dialogue: 10,0:16:03.58,0:16:04.75,Default,Geto,0,0,0,,Who knows?
+Dialogue: 10,0:16:04.75,0:16:05.79,Default,Gojo,0,0,0,,Maybe the crapper?
+Dialogue: 10,0:16:06.79,0:16:07.92,Default,Yaga,0,0,0,,Whatever.
+Dialogue: 10,0:16:07.92,0:16:10.63,Default,Yaga,0,0,0,,I'm going to have you two go on a mission together.
+Dialogue: 10,0:16:11.92,0:16:13.50,Default,Yaga,0,0,0,,What's with the faces?
+Dialogue: 10,0:16:14.13,0:16:15.13,Default,Both,0,0,0,,It's nothing.
+Dialogue: 10,0:16:14.13,0:16:15.13,Default,Both,0,0,0,,It's nothing.
+Dialogue: 10,0:16:16.01,0:16:18.93,Default,Yaga,0,0,0,,I honestly think it's too important \Nto be assigned to you guys,
+Dialogue: 10,0:16:18.93,0:16:20.97,Default,Yaga,0,0,0,,but Master Tengen asked for you specifically.
+Dialogue: 10,0:16:22.97,0:16:24.81,Default,Yaga,0,0,0,,Your mission has two goals.
+Dialogue: 10,0:16:25.22,0:16:29.23,Default,Yaga,0,0,0,,Master Tengen has found a compatible Star Plasma Vessel. 
+Dialogue: 10,0:16:29.23,0:16:33.27,Default,Yaga,0,0,0,,You are to escort that girl and erase her.
+Dialogue: 10,0:16:33.77,0:16:36.28,Default,Gojo,0,0,0,,Escort a brat and erase her?
+Dialogue: 10,0:16:37.15,0:16:38.36,Default,Yaga,0,0,0,,That's right.
+Dialogue: 10,0:16:38.36,0:16:40.07,Default,Gojo,0,0,0,,Has he finally gone senile?
+Dialogue: 10,0:16:40.07,0:16:44.53,Default,Geto,0,0,0,,It's spring. He'll become the principal soon.\N It must be getting to his head. 
+Dialogue: 10,0:16:44.95,0:16:46.04,Default,Geto,0,0,0,,Jokes aside, though—
+Dialogue: 10,0:16:46.04,0:16:49.12,Default,Yaga,0,0,0,,I'll be the one to decide if I let that off as a joke.
+Dialogue: 10,0:16:47.66,0:16:50.58,Default,Geto,0,0,0,,Is this about resetting Master Tengen's technique?
+Dialogue: 10,0:16:52.08,0:16:52.96,Default,Gojo,0,0,0,,What's that?
+Dialogue: 10,0:16:56.59,0:16:57.55,Default,Gojo,0,0,0,,What?
+Dialogue: 10,0:16:58.34,0:17:02.93,Default,Yaga,0,0,0,,Master Tengen has the technique of Immortality,\N but that doesn't grant eternal youth.
+Dialogue: 10,0:17:02.93,0:17:05.72,Default,Yaga,0,0,0,,It wouldn't be an issue if the only change was aging,
+Dialogue: 10,0:17:05.72,0:17:10.73,Default,Yaga,0,0,0,,but after a certain point,\N the technique begins to rewrite the body.
+Dialogue: 10,0:17:12.40,0:17:13.77,Default,Yaga,0,0,0,,Evolution.
+Dialogue: 10,0:17:13.77,0:17:17.03,Default,Yaga,0,0,0,,When one ceases to be human \Nand becomes a higher form of existence.
+Dialogue: 10,0:17:17.36,0:17:20.82,Default,Gojo,0,0,0,,What's wrong with that? Sounds rad.
+Dialogue: 10,0:17:20.82,0:17:26.79,Default,Geto,0,0,0,,According to Master Tengen, those who \Nreach that state of being have no will of their own.
+Dialogue: 10,0:17:26.79,0:17:29.79,Default,Geto,0,0,0,,It means Master Tengen \Nwould cease to be Master Tengen.
+Dialogue: 10,0:17:29.79,0:17:31.54,Default,Geto,0,0,0,,The barriers of jujutsu schools.
+Dialogue: 10,0:17:31.54,0:17:34.08,Default,Geto,0,0,0,,The barriers that form the pillars of jujutsu world.
+Dialogue: 10,0:17:34.08,0:17:36.46,Default,Geto,0,0,0,,Even the barriers of all the assistant supervisors.
+Dialogue: 10,0:17:36.46,0:17:41.09,Default,Geto,0,0,0,,They are all being strengthened by Master Tengen.
+Dialogue: 10,0:17:41.09,0:17:46.68,Default,Geto,0,0,0,,We could hardly maintain our cover \Nor clean up after missions otherwise.
+Dialogue: 10,0:17:46.68,0:17:51.64,Default,Geto,0,0,0,,In the worst-case scenario, \NMaster Tengen could even become a threat to mankind.
+Dialogue: 10,0:17:51.64,0:17:53.69,Default,Geto,0,0,0,,That's why, every five hundred years,
+Dialogue: 10,0:17:53.69,0:17:58.44,Default,Geto,0,0,0,,Master Tengen must assimilate the Star Plasma Vessel—\Nsomeone who is compatible—
+Dialogue: 10,0:17:58.44,0:18:00.53,Default,Geto,0,0,0,,to overwrite the body's information.
+Dialogue: 10,0:18:00.99,0:18:07.03,Default,Geto,0,0,0,,Once the body resets, the technique\N follows suit and evolution does not happen.
+Dialogue: 10,0:18:07.28,0:18:08.49,Default,Gojo,0,0,0,,I get it.
+Dialogue: 10,0:18:08.49,0:18:13.62,Default,Gojo,0,0,0,,Becoming MetalGreymon is fine, \Nbut evolving into SkullGreymon is a problem.
+Dialogue: 10,0:18:13.62,0:18:16.34,Default,Gojo,0,0,0,,So we need to start over from Koromon.
+Dialogue: 10,0:18:17.04,0:18:19.76,Default,Geto,0,0,0,,What? Yeah, whatever, let's go with that.
+Dialogue: 10,0:18:19.76,0:18:23.84,Default,Yaga,0,0,0,,The Star Plasma Vessel's location has been leaked. 
+Dialogue: 10,0:18:24.26,0:18:28.35,Default,Yaga,0,0,0,,Two groups are after the young girl's life as we speak.
+Dialogue: 10,0:18:28.97,0:18:31.14,Default,Yaga,0,0,0,,One is the Curse User Group Q,
+Dialogue: 10,0:18:31.35,0:18:35.65,Default,Yaga,0,0,0,,which seeks to upend jujutsu society\N by having Master Tengen lose all reason.
+Dialogue: 10,0:18:36.73,0:18:40.11,Default,Yaga,0,0,0,,The other is the Star Religious Group\N that worships Master Tengen,
+Dialogue: 10,0:18:40.11,0:18:42.86,Default,Yaga,0,0,0,,known as the Time Vessel Association.
+Dialogue: 10,0:18:43.65,0:18:48.33,Default,Yaga,0,0,0,,Master Tengen will assimilate the Star Plasma Vessel\N during the full moon in two days.
+Dialogue: 10,0:18:48.33,0:18:53.00,Default,Yaga,0,0,0,,You are to protect the girl until then\N and ensure that she reaches Master Tengen!
+Dialogue: 10,0:18:53.00,0:18:57.13,Default,Yaga,0,0,0,,If you mess this up, the effects will ripple\N throughout even human society! 
+Dialogue: 10,0:18:57.13,0:18:58.59,Default,Yaga,0,0,0,,Do not forget that!
+Dialogue: 10,0:18:59.34,0:19:00.84,Default,Gojo,0,0,0,,Real talk, though.
+Dialogue: 10,0:19:00.84,0:19:03.84,Default,Gojo,0,0,0,,I kinda get why Curse User Group Q is after her,
+Dialogue: 10,0:19:03.84,0:19:07.01,Default,Gojo,0,0,0,,but why would this \NStar Religious Group wanna kill the brat?
+Dialogue: 10,0:19:07.72,0:19:10.89,Default,Geto,0,0,0,,What they worship is the pure form of Master Tengen.
+Dialogue: 10,0:19:11.35,0:19:16.77,Default,Geto,0,0,0,,A merger with the Star Plasma Vessel—\Nin their minds, an impurity—is simply unacceptable.
+Dialogue: 10,0:19:17.31,0:19:20.19,Default,Geto,0,0,0,,The Star Religious Group \Nis an organization of non-sorcerers.
+Dialogue: 10,0:19:20.19,0:19:22.57,Default,Geto,0,0,0,,I don't think we need to worry about them.
+Dialogue: 10,0:19:22.57,0:19:24.90,Default,Geto,0,0,0,,The ones to be wary of are Q.
+Dialogue: 10,0:19:25.28,0:19:27.20,Default,Gojo,0,0,0,,Nah, I'm sure it'll be fine. 
+Dialogue: 10,0:19:27.20,0:19:29.03,Default,Gojo,0,0,0,,We're the strongest, after all.
+Dialogue: 10,0:19:29.03,0:19:32.20,Default,Gojo,0,0,0,,That's why Master Tengen asked for us specifically, right?
+Dialogue: 10,0:19:34.45,0:19:35.41,Default,Gojo,0,0,0,,What is it?
+Dialogue: 10,0:19:36.12,0:19:38.46,Default,Geto,0,0,0,,You know, Satoru,
+Dialogue: 10,0:19:38.46,0:19:40.75,Default,Geto,0,0,0,,I've been wanting to tell you this for a while.
+Dialogue: 10,0:19:40.75,0:19:43.21,Default,Geto,0,0,0,,You should be more mindful of the way you talk.
+Dialogue: 10,0:19:43.55,0:19:45.05,Default,Gojo,0,0,0,,Say what?!
+Dialogue: 10,0:19:46.22,0:19:48.97,Default,Geto,0,0,0,,Especially when you're addressing your superiors.
+Dialogue: 10,0:19:48.97,0:19:51.43,Default,Geto,0,0,0,,We might end up meeting Master Tengen.
+Dialogue: 10,0:19:51.43,0:19:55.06,Default,Geto,0,0,0,,You should be more polite and humble.
+Dialogue: 10,0:19:55.06,0:19:57.35,Default,Geto,0,0,0,,You'd scare your juniors less, too.
+Dialogue: 10,0:19:57.35,0:19:58.02,Default,Gojo,0,0,0,,Hah!
+Dialogue: 10,0:19:58.35,0:19:59.60,Default,Gojo,0,0,0,,Screw that!
+Dialogue: 10,0:19:59.60,0:20:01.82,Default,Geto,0,0,0,,Come on, Satoru.
+Dialogue: 10,0:20:01.82,0:20:04.53,Default,Geto,0,0,0,,Never mind. We'll discuss it later.
+Dialogue: 10,0:20:09.28,0:20:10.16,Default,Kuroi,0,0,0,,Coming.
+Dialogue: 10,0:20:18.33,0:20:19.54,Default,Gojo,0,0,0,,Still alive?
+Dialogue: 10,0:20:20.04,0:20:21.08,Default,Geto,0,0,0,,I am, at least.
+Dialogue: 10,0:20:22.21,0:20:25.05,Default,Gojo,0,0,0,,Would it be our fault if the brat died from that?
+Dialogue: 10,0:20:36.31,0:20:37.89,Default,Kokun,0,0,0,,Don't blame me.
+Dialogue: 10,0:20:38.64,0:20:41.02,Default,Kokun,0,0,0,,If you must hate someone, hate Tengen.
+Dialogue: 10,0:20:41.61,0:20:42.27,Default,Kokun,0,0,0,,Wha—
+Dialogue: 10,0:20:45.03,0:20:47.32,Default,Geto,0,0,0,,Could you please try not to make a scene?
+Dialogue: 10,0:20:47.32,0:20:49.24,Default,Geto,0,0,0,,We got chewed out for it just this morning.
+Dialogue: 10,0:20:50.11,0:20:51.70,Default,Geto,0,0,0,,This girl is the Star Plasma Vessel?
+Dialogue: 10,0:20:52.28,0:20:55.41,Default,Kokun,0,0,0,,I know that uniform.\N You're sorcerers from Jujutsu Tech.
+Dialogue: 10,0:20:55.41,0:20:56.79,Default,Kokun,0,0,0,,Hand over the brat.
+Dialogue: 10,0:20:57.29,0:20:58.37,Default,Kokun,0,0,0,,Or I'll kill you.
+Dialogue: 10,0:20:58.96,0:21:00.54,Default,Geto,0,0,0,,Can't hear you.
+Dialogue: 10,0:21:00.54,0:21:02.79,Default,Geto,0,0,0,,Come a little closer, will you?
+Dialogue: 10,0:21:03.08,0:21:05.09,Default,Gojo,0,0,0,,Man, you barely made it.
+Dialogue: 10,0:21:09.76,0:21:11.18,Default,Bayer,0,0,0,,Impressive.
+Dialogue: 10,0:21:11.89,0:21:14.18,Default,Bayer,0,0,0,,You're Gojo Satoru, right?
+Dialogue: 10,0:21:14.55,0:21:16.18,Default,Bayer,0,0,0,,You're famous.
+Dialogue: 10,0:21:17.31,0:21:19.06,Default,Bayer,0,0,0,,I hear you're strong.
+Dialogue: 10,0:21:19.06,0:21:21.65,Default,Bayer,0,0,0,,Let me confirm if the rumors are true.
+Dialogue: 10,0:21:22.44,0:21:25.48,Default,Gojo,0,0,0,,I'm down for that, but let's set a rule.
+Dialogue: 10,0:21:25.82,0:21:26.69,Default,Bayer,0,0,0,,What rule?
+Dialogue: 10,0:21:27.32,0:21:30.53,Default,Gojo,0,0,0,,I don't wanna get yelled at for going overboard.
+Dialogue: 10,0:21:30.53,0:21:33.78,Default,Gojo,0,0,0,,So if you start bawling and apologizing,\N I won't kill you.
+Dialogue: 10,0:21:33.78,0:21:34.99,Default,Gojo,0,0,0,,That's the rule.
+Dialogue: 10,0:21:35.45,0:21:36.62,Default,Bayer,0,0,0,,Cocky bastard.
+Dialogue: 10,0:21:38.45,0:21:40.12,Default,Kong,0,0,0,,And so it begins.
+Dialogue: 10,0:21:41.12,0:21:44.71,Default,Kong,0,0,0,,The Star Religious Group \Ndoesn't have the power to fight sorcerers.
+Dialogue: 10,0:21:45.09,0:21:46.80,Default,Kong,0,0,0,,But they can pay very well.
+Dialogue: 10,0:21:46.80,0:21:48.42,Default,Kong,0,0,0,,That I guarantee.
+Dialogue: 10,0:21:49.46,0:21:50.84,Default,Kong,0,0,0,,How about it, Zenin?
+Dialogue: 10,0:21:51.42,0:21:55.35,Default,Kong,0,0,0,,Want to get in on the Star Plasma Vessel assassination?
+Dialogue: 10,0:21:55.76,0:21:57.81,Default,Toji,0,0,0,,It's not Zenin anymore.
+Dialogue: 10,0:21:57.81,0:21:59.89,Default,Toji,0,0,0,,I took my wife's name.
+Dialogue: 10,0:21:59.89,0:22:01.77,Default,Toji,0,0,0,,I go by Fushiguro now.
+Dialogue: 10,0:22:02.56,0:22:05.86,Default,Toji,0,0,0,,Alright, count me in.
+Dialogue: 10,0:23:40.58,0:23:44.04,Default,Gojo,0,0,0,,You know how sometimes these\N random words get stuck in your head?
+Dialogue: 10,0:23:44.04,0:23:45.66,Default,Geto,0,0,0,,Like, Privatization of Reclaimed Lands Act?
+Dialogue: 10,0:23:45.66,0:23:47.50,Default,Gojo,0,0,0,,Exactly! Or like, Corporate Governance!
+Dialogue: 10,0:23:47.50,0:23:50.00,Default,Shoko,0,0,0,,Please look forward to the next episode,\NHidden Inventory, Part 2!
+Dialogue: 10,0:23:50.00,0:23:51.13,Default,Gojo,0,0,0,,You tell us one too, Shoko.
+Dialogue: 10,0:23:51.13,0:23:52.71,Default,Shoko,0,0,0,,Clippity-Cloppity Carnival.
+Dialogue: 10,0:23:52.71,0:23:54.13,Default,Shoko,0,0,0,,Whoa!
+Dialogue: 0,0:02:53.29,0:02:57.42,<<folder>>,,0,0,0,,
+Dialogue: 0,0:02:53.29,0:02:54.54,Signs,,0,0,0,,
+Dialogue: 1,0:02:53.29,0:02:54.54,Signs,,0,0,0,,
+Dialogue: 2,0:02:53.29,0:02:54.54,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:53.29,0:02:54.54,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:53.29,0:02:54.54,Signs,,0,0,0,,a
+Dialogue: 4,0:02:53.29,0:02:54.54,Signs,,0,0,0,,p
+Dialogue: 4,0:02:53.29,0:02:54.54,Signs,,0,0,0,,p
+Dialogue: 4,0:02:53.29,0:02:54.54,Signs,,0,0,0,,p
+Dialogue: 4,0:02:53.29,0:02:54.54,Signs,,0,0,0,,e
+Dialogue: 4,0:02:53.29,0:02:54.54,Signs,,0,0,0,,p
+Dialogue: 4,0:02:53.29,0:02:54.54,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.54,0:02:54.58,<<folder>>,,0,0,0,,
+Dialogue: 0,0:02:54.54,0:02:54.58,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.54,0:02:54.58,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.54,0:02:54.58,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.54,0:02:54.58,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.54,0:02:54.58,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.54,0:02:54.58,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.54,0:02:54.58,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.54,0:02:54.58,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.54,0:02:54.58,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.54,0:02:54.58,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.54,0:02:54.58,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.58,0:02:54.62,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.58,0:02:54.62,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.58,0:02:54.62,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.58,0:02:54.62,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.58,0:02:54.62,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.58,0:02:54.62,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.58,0:02:54.62,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.58,0:02:54.62,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.58,0:02:54.62,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.58,0:02:54.62,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.58,0:02:54.62,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.62,0:02:54.66,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.62,0:02:54.66,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.62,0:02:54.66,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.62,0:02:54.66,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.62,0:02:54.66,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.62,0:02:54.66,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.62,0:02:54.66,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.62,0:02:54.66,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.62,0:02:54.66,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.62,0:02:54.66,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.62,0:02:54.66,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.66,0:02:54.71,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.66,0:02:54.71,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.66,0:02:54.71,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.66,0:02:54.71,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.66,0:02:54.71,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.66,0:02:54.71,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.66,0:02:54.71,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.66,0:02:54.71,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.66,0:02:54.71,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.66,0:02:54.71,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.66,0:02:54.71,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.71,0:02:54.75,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.71,0:02:54.75,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.71,0:02:54.75,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.71,0:02:54.75,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.71,0:02:54.75,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.71,0:02:54.75,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.71,0:02:54.75,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.71,0:02:54.75,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.71,0:02:54.75,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.71,0:02:54.75,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.71,0:02:54.75,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.75,0:02:54.79,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.75,0:02:54.79,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.75,0:02:54.79,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.75,0:02:54.79,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.75,0:02:54.79,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.75,0:02:54.79,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.75,0:02:54.79,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.75,0:02:54.79,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.75,0:02:54.79,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.75,0:02:54.79,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.75,0:02:54.79,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.79,0:02:54.83,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.79,0:02:54.83,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.79,0:02:54.83,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.79,0:02:54.83,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.79,0:02:54.83,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.79,0:02:54.83,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.79,0:02:54.83,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.79,0:02:54.83,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.79,0:02:54.83,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.79,0:02:54.83,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.79,0:02:54.83,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.83,0:02:54.87,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.83,0:02:54.87,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.83,0:02:54.87,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.83,0:02:54.87,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.83,0:02:54.87,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.83,0:02:54.87,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.83,0:02:54.87,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.83,0:02:54.87,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.83,0:02:54.87,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.83,0:02:54.87,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.83,0:02:54.87,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.87,0:02:54.91,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.87,0:02:54.91,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.87,0:02:54.91,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.87,0:02:54.91,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.87,0:02:54.91,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.87,0:02:54.91,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.87,0:02:54.91,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.87,0:02:54.91,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.87,0:02:54.91,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.87,0:02:54.91,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.87,0:02:54.91,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.91,0:02:54.96,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.91,0:02:54.96,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.91,0:02:54.96,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.91,0:02:54.96,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.91,0:02:54.96,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.91,0:02:54.96,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.91,0:02:54.96,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.91,0:02:54.96,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.91,0:02:54.96,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.91,0:02:54.96,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.91,0:02:54.96,Signs,,0,0,0,,p
+Dialogue: 0,0:02:54.96,0:02:55.00,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:54.96,0:02:55.00,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:54.96,0:02:55.00,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:54.96,0:02:55.00,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:54.96,0:02:55.00,Signs,,0,0,0,,a
+Dialogue: 4,0:02:54.96,0:02:55.00,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.96,0:02:55.00,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.96,0:02:55.00,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.96,0:02:55.00,Signs,,0,0,0,,e
+Dialogue: 4,0:02:54.96,0:02:55.00,Signs,,0,0,0,,p
+Dialogue: 4,0:02:54.96,0:02:55.00,Signs,,0,0,0,,p
+Dialogue: 0,0:02:55.00,0:02:55.04,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:55.00,0:02:55.04,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:55.00,0:02:55.04,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:55.00,0:02:55.04,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:55.00,0:02:55.04,Signs,,0,0,0,,a
+Dialogue: 4,0:02:55.00,0:02:55.04,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.00,0:02:55.04,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.00,0:02:55.04,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.00,0:02:55.04,Signs,,0,0,0,,e
+Dialogue: 4,0:02:55.00,0:02:55.04,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.00,0:02:55.04,Signs,,0,0,0,,p
+Dialogue: 0,0:02:55.04,0:02:55.08,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:55.04,0:02:55.08,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:55.04,0:02:55.08,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:55.04,0:02:55.08,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:55.04,0:02:55.08,Signs,,0,0,0,,a
+Dialogue: 4,0:02:55.04,0:02:55.08,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.04,0:02:55.08,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.04,0:02:55.08,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.04,0:02:55.08,Signs,,0,0,0,,e
+Dialogue: 4,0:02:55.04,0:02:55.08,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.04,0:02:55.08,Signs,,0,0,0,,p
+Dialogue: 0,0:02:55.08,0:02:55.12,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:55.08,0:02:55.12,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:55.08,0:02:55.12,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:55.08,0:02:55.12,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:55.08,0:02:55.12,Signs,,0,0,0,,a
+Dialogue: 4,0:02:55.08,0:02:55.12,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.08,0:02:55.12,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.08,0:02:55.12,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.08,0:02:55.12,Signs,,0,0,0,,e
+Dialogue: 4,0:02:55.08,0:02:55.12,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.08,0:02:55.12,Signs,,0,0,0,,p
+Dialogue: 0,0:02:55.12,0:02:55.16,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:55.12,0:02:55.16,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:55.12,0:02:55.16,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:55.12,0:02:55.16,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:55.12,0:02:55.16,Signs,,0,0,0,,a
+Dialogue: 4,0:02:55.12,0:02:55.16,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.12,0:02:55.16,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.12,0:02:55.16,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.12,0:02:55.16,Signs,,0,0,0,,e
+Dialogue: 4,0:02:55.12,0:02:55.16,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.12,0:02:55.16,Signs,,0,0,0,,p
+Dialogue: 0,0:02:55.16,0:02:55.21,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:55.16,0:02:55.21,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:55.16,0:02:55.21,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:55.16,0:02:55.21,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:55.16,0:02:55.21,Signs,,0,0,0,,a
+Dialogue: 4,0:02:55.16,0:02:55.21,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.16,0:02:55.21,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.16,0:02:55.21,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.16,0:02:55.21,Signs,,0,0,0,,e
+Dialogue: 4,0:02:55.16,0:02:55.21,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.16,0:02:55.21,Signs,,0,0,0,,p
+Dialogue: 0,0:02:55.21,0:02:55.25,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 1,0:02:55.21,0:02:55.25,Signs,,0,0,0,,m 384 60 l 1500 60 1500 200 384 200
+Dialogue: 2,0:02:55.21,0:02:55.25,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:55.21,0:02:55.25,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:55.21,0:02:55.25,Signs,,0,0,0,,a
+Dialogue: 4,0:02:55.21,0:02:55.25,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.21,0:02:55.25,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.21,0:02:55.25,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.21,0:02:55.25,Signs,,0,0,0,,e
+Dialogue: 4,0:02:55.21,0:02:55.25,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.21,0:02:55.25,Signs,,0,0,0,,p
+Dialogue: 0,0:02:55.25,0:02:55.29,<<folder>>,,0,0,0,,
+Dialogue: 0,0:02:55.25,0:02:57.42,Signs,,0,0,0,,
+Dialogue: 1,0:02:55.25,0:02:57.42,Signs,,0,0,0,,
+Dialogue: 2,0:02:55.25,0:02:57.42,Signs,,0,0,0,,Entering These Premises Is Forbidden! \NMany Have Gone Missing!
+Dialogue: 3,0:02:55.25,0:02:57.42,Signs,,0,0,0,,qweyuooasjdfoashdh\Ndadnaiosndfas
+Dialogue: 4,0:02:55.25,0:02:57.42,Signs,,0,0,0,,a
+Dialogue: 4,0:02:55.25,0:02:57.42,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.25,0:02:57.42,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.25,0:02:57.42,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.25,0:02:57.42,Signs,,0,0,0,,e
+Dialogue: 4,0:02:55.25,0:02:57.42,Signs,,0,0,0,,p
+Dialogue: 4,0:02:55.25,0:02:57.42,Signs,,0,0,0,,p
+Dialogue: 0,0:02:57.38,0:02:57.42,<<folder>>,,0,0,0,,
+Dialogue: 0,0:03:11.93,0:03:11.97,<<folder>>,,0,0,0,,
+Dialogue: 1,0:03:11.93,0:03:16.23,Signs,,0,0,0,,
+Dialogue: 0,0:03:11.93,0:03:16.23,Signs,,0,0,0,,
+Dialogue: 0,0:03:16.19,0:03:16.23,<<folder>>,,0,0,0,,
+Dialogue: 0,0:03:35.75,0:03:35.79,<<folder>>,,0,0,0,,
+Dialogue: 0,0:03:35.74,0:03:35.78,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:35.78,0:03:35.83,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:35.83,0:03:35.87,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:35.87,0:03:35.91,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:35.91,0:03:35.95,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:35.95,0:03:35.99,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:35.99,0:03:36.03,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.03,0:03:36.08,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.08,0:03:36.12,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.12,0:03:36.16,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.16,0:03:36.20,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.20,0:03:36.24,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.24,0:03:36.28,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.28,0:03:36.33,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.33,0:03:36.37,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.37,0:03:36.41,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.41,0:03:36.45,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.45,0:03:36.49,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.49,0:03:36.53,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.53,0:03:36.58,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.58,0:03:36.62,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.62,0:03:36.66,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.66,0:03:36.99,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:35.74,0:03:35.78,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:35.78,0:03:35.83,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:35.83,0:03:35.87,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:35.87,0:03:35.91,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:35.91,0:03:35.95,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:35.95,0:03:35.99,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:35.99,0:03:36.03,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.03,0:03:36.08,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.08,0:03:36.12,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.12,0:03:36.16,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.16,0:03:36.20,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.20,0:03:36.24,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.24,0:03:36.28,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.28,0:03:36.33,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.33,0:03:36.37,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.37,0:03:36.41,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.41,0:03:36.45,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.45,0:03:36.49,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.49,0:03:36.53,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.53,0:03:36.58,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.58,0:03:36.62,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.62,0:03:36.66,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 1,0:03:36.66,0:03:36.99,Signs,Screen,0,0,0,,Makes sense...
+Dialogue: 0,0:03:36.96,0:03:37.00,<<folder>>,,0,0,0,,
+Dialogue: 0,0:12:18.98,0:12:19.02,<<folder>>,,0,0,0,,
+Dialogue: 0,0:12:18.97,0:12:21.31,Signs,Screen,0,0,0,,m 1389.33 217.78 l 1793.78 217.78 1794.67 821.33 1389.33 823.11
+Dialogue: 1,0:12:18.97,0:12:21.31,Signs,Screen,0,0,0,,Jujutsu Tech, Second-Year\N\NGojo Satoru
+Dialogue: 0,0:12:21.31,0:12:21.36,<<folder>>,,0,0,0,,
+Dialogue: 0,0:12:21.31,0:12:26.52,Signs,Screen,0,0,0,,m 84 72 l 365.33 69.33 369.33 496 88 493.33
+Dialogue: 1,0:12:21.31,0:12:26.52,Signs,Screen,0,0,0,,Second-Grade Sorcerer\N\NIori Utahime
+Dialogue: 0,0:12:26.53,0:12:26.57,<<folder>>,,0,0,0,,
+Dialogue: 0,0:12:26.52,0:12:29.27,Signs,Screen,0,0,0,,m 1374.67 9.33 l 1910.67 6.67 1912 789.33 1372 786.67
+Dialogue: 1,0:12:26.52,0:12:29.27,Signs,Screen,0,0,0,,First-Grade Sorcerer\N\NMei Mei
+Dialogue: 0,0:12:49.22,0:12:49.26,<<folder>>,,0,0,0,,
+Dialogue: 0,0:12:49.21,0:12:51.96,Signs,Screen,0,0,0,,m 1389.33 217.78 l 1793.78 217.78 1794.67 821.33 1389.33 823.11
+Dialogue: 1,0:12:49.21,0:12:51.96,Signs,Screen,0,0,0,,Jujutsu Tech, Second-Year\N\NGeto Suguru
+Dialogue: 0,0:13:05.36,0:13:05.40,<<folder>>,,0,0,0,,
+Dialogue: 0,0:13:05.35,0:13:10.73,Signs,Screen,0,0,0,,m 1218.29 233.14 l 1659.43 232 1664 885.71 1218.29 889.14
+Dialogue: 1,0:13:05.35,0:13:10.73,Signs,Screen,0,0,0,,Jujutsu Tech, Second-Year\N\NIeiri Shoko
+Dialogue: 0,0:14:12.59,0:14:12.63,<<folder>>,,0,0,0,,
+Dialogue: 0,0:14:12.59,0:14:15.13,Signs,Screen,0,0,0,,
+Dialogue: 1,0:14:12.59,0:14:15.13,Signs,Screen,0,0,0,,First-Grade Sorcerer\N\NYaga Masamichi
+Dialogue: 0,0:20:38.77,0:20:38.81,<<folder>>,,0,0,0,,
+Dialogue: 0,0:20:38.75,0:20:42.27,Signs,Screen,0,0,0,,m 1400 170 l 1757 170 1757 692.8 1400 692.8
+Dialogue: 1,0:20:38.75,0:20:42.27,Signs,Screen,0,0,0,,m 1400 170 l 1757 170 1757 692.8 1400 692.8
+Dialogue: 2,0:20:38.75,0:20:42.27,Signs,Screen,0,0,0,,Q Soldier\N\NKokun
+Dialogue: 0,0:21:14.18,0:21:14.22,<<folder>>,,0,0,0,,
+Dialogue: 0,0:21:14.18,0:21:16.49,Signs,Screen,0,0,0,,
+Dialogue: 1,0:21:14.18,0:21:16.49,Signs,Screen,0,0,0,,
+Dialogue: 2,0:21:14.18,0:21:16.49,Signs,Screen,0,0,0,,Q Soldier\N\NBayer
+Dialogue: 0,0:21:16.43,0:21:16.47,<<folder>>,,0,0,0,,
+Dialogue: 0,0:13:10.70,0:13:10.74,<<folder>>,,0,0,0,,
+Dialogue: 0,0:13:20.25,0:13:20.29,<<folder>>,,0,0,0,,
+Dialogue: 0,0:13:20.25,0:13:26.55,Signs,Screen,0,0,0,,m 166 374 l 298 371 308 752 171 756
+Dialogue: 1,0:13:20.25,0:13:20.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.29,0:13:20.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.33,0:13:20.37,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.37,0:13:20.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.46,0:13:20.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.50,0:13:20.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.54,0:13:20.58,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.58,0:13:20.62,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.62,0:13:20.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.71,0:13:20.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.75,0:13:20.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.79,0:13:20.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:20.83,0:13:21.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.04,0:13:21.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.08,0:13:21.12,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.12,0:13:21.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.17,0:13:21.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.21,0:13:21.25,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.25,0:13:21.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.29,0:13:21.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.54,0:13:21.58,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.58,0:13:21.62,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.62,0:13:21.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.67,0:13:21.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.71,0:13:21.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.79,0:13:21.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.83,0:13:21.87,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.87,0:13:21.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:21.96,0:13:22.00,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.00,0:13:22.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.04,0:13:22.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.08,0:13:22.12,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.12,0:13:22.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.17,0:13:22.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.21,0:13:22.25,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.25,0:13:22.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.29,0:13:22.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.33,0:13:22.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.46,0:13:22.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.54,0:13:22.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.79,0:13:22.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.83,0:13:22.88,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.88,0:13:22.92,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.92,0:13:22.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:22.96,0:13:23.00,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.00,0:13:23.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.04,0:13:23.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.08,0:13:23.13,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.13,0:13:23.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.17,0:13:23.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.21,0:13:23.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.29,0:13:23.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.33,0:13:23.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.38,0:13:23.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.46,0:13:23.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.50,0:13:23.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.54,0:13:23.63,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.63,0:13:23.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:23.79,0:13:24.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.04,0:13:24.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.29,0:13:24.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.38,0:13:24.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.54,0:13:24.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.67,0:13:24.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.71,0:13:24.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.75,0:13:24.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.79,0:13:24.84,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.84,0:13:24.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:24.96,0:13:25.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.04,0:13:25.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.29,0:13:25.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.38,0:13:25.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.54,0:13:25.63,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.63,0:13:25.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.67,0:13:25.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.71,0:13:25.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.75,0:13:25.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.79,0:13:25.84,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.84,0:13:25.88,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.88,0:13:25.92,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.92,0:13:25.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:25.96,0:13:26.05,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:26.05,0:13:26.09,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:26.09,0:13:26.13,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:26.13,0:13:26.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:26.21,0:13:26.30,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:26.30,0:13:26.34,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:26.34,0:13:26.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:26.46,0:13:26.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 1,0:13:26.50,0:13:26.55,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.25,0:13:20.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.29,0:13:20.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.33,0:13:20.37,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.37,0:13:20.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.46,0:13:20.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.50,0:13:20.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.54,0:13:20.58,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.58,0:13:20.62,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.62,0:13:20.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.71,0:13:20.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.75,0:13:20.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.79,0:13:20.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:20.83,0:13:21.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.04,0:13:21.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.08,0:13:21.12,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.12,0:13:21.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.17,0:13:21.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.21,0:13:21.25,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.25,0:13:21.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.29,0:13:21.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.54,0:13:21.58,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.58,0:13:21.62,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.62,0:13:21.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.67,0:13:21.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.71,0:13:21.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.79,0:13:21.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.83,0:13:21.87,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.87,0:13:21.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:21.96,0:13:22.00,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.00,0:13:22.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.04,0:13:22.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.08,0:13:22.12,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.12,0:13:22.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.17,0:13:22.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.21,0:13:22.25,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.25,0:13:22.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.29,0:13:22.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.33,0:13:22.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.46,0:13:22.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.54,0:13:22.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.79,0:13:22.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.83,0:13:22.88,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.88,0:13:22.92,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.92,0:13:22.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:22.96,0:13:23.00,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.00,0:13:23.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.04,0:13:23.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.08,0:13:23.13,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.13,0:13:23.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.17,0:13:23.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.21,0:13:23.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.29,0:13:23.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.33,0:13:23.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.38,0:13:23.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.46,0:13:23.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.50,0:13:23.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.54,0:13:23.63,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.63,0:13:23.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:23.79,0:13:24.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.04,0:13:24.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.29,0:13:24.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.38,0:13:24.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.54,0:13:24.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.67,0:13:24.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.71,0:13:24.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.75,0:13:24.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.79,0:13:24.84,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.84,0:13:24.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:24.96,0:13:25.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.04,0:13:25.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.29,0:13:25.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.38,0:13:25.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.54,0:13:25.63,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.63,0:13:25.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.67,0:13:25.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.71,0:13:25.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.75,0:13:25.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.79,0:13:25.84,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.84,0:13:25.88,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.88,0:13:25.92,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.92,0:13:25.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:25.96,0:13:26.05,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:26.05,0:13:26.09,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:26.09,0:13:26.13,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:26.13,0:13:26.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:26.21,0:13:26.30,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:26.30,0:13:26.34,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:26.34,0:13:26.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:26.46,0:13:26.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 2,0:13:26.50,0:13:26.55,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.25,0:13:20.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.29,0:13:20.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.33,0:13:20.37,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.37,0:13:20.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.46,0:13:20.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.50,0:13:20.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.54,0:13:20.58,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.58,0:13:20.62,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.62,0:13:20.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.71,0:13:20.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.75,0:13:20.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.79,0:13:20.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:20.83,0:13:21.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.04,0:13:21.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.08,0:13:21.12,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.12,0:13:21.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.17,0:13:21.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.21,0:13:21.25,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.25,0:13:21.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.29,0:13:21.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.54,0:13:21.58,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.58,0:13:21.62,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.62,0:13:21.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.67,0:13:21.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.71,0:13:21.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.79,0:13:21.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.83,0:13:21.87,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.87,0:13:21.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:21.96,0:13:22.00,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.00,0:13:22.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.04,0:13:22.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.08,0:13:22.12,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.12,0:13:22.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.17,0:13:22.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.21,0:13:22.25,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.25,0:13:22.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.29,0:13:22.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.33,0:13:22.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.46,0:13:22.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.54,0:13:22.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.79,0:13:22.83,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.83,0:13:22.88,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.88,0:13:22.92,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.92,0:13:22.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:22.96,0:13:23.00,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.00,0:13:23.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.04,0:13:23.08,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.08,0:13:23.13,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.13,0:13:23.17,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.17,0:13:23.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.21,0:13:23.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.29,0:13:23.33,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.33,0:13:23.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.38,0:13:23.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.46,0:13:23.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.50,0:13:23.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.54,0:13:23.63,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.63,0:13:23.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:23.79,0:13:24.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.04,0:13:24.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.29,0:13:24.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.38,0:13:24.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.54,0:13:24.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.67,0:13:24.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.71,0:13:24.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.75,0:13:24.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.79,0:13:24.84,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.84,0:13:24.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:24.96,0:13:25.04,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.04,0:13:25.29,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.29,0:13:25.38,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.38,0:13:25.54,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.54,0:13:25.63,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.63,0:13:25.67,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.67,0:13:25.71,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.71,0:13:25.75,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.75,0:13:25.79,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.79,0:13:25.84,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.84,0:13:25.88,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.88,0:13:25.92,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.92,0:13:25.96,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:25.96,0:13:26.05,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:26.05,0:13:26.09,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:26.09,0:13:26.13,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:26.13,0:13:26.21,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:26.21,0:13:26.30,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:26.30,0:13:26.34,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:26.34,0:13:26.46,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:26.46,0:13:26.50,Signs,Screen,0,0,0,,TRASH
+Dialogue: 3,0:13:26.50,0:13:26.55,Signs,Screen,0,0,0,,TRASH
+Dialogue: 0,0:13:26.50,0:13:26.55,<<folder>>,,0,0,0,,
+Dialogue: 0,0:14:02.29,0:14:02.33,<<folder>>,,0,0,0,,
+Dialogue: 1,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,
+Dialogue: 2,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,
+Dialogue: 3,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,_______________________________________________
+Dialogue: 3,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,_______________________________________________
+Dialogue: 3,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,_______________________________________________
+Dialogue: 3,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,_______________________________________________
+Dialogue: 3,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,_______________________________________________
+Dialogue: 6,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,000000
+Dialogue: 6,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,000000
+Dialogue: 6,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,000000
+Dialogue: 6,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,000000
+Dialogue: 6,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,000000
+Dialogue: 6,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,000000
+Dialogue: 6,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,000000
+Dialogue: 4,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,White
+Dialogue: 4,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,News
+Dialogue: 4,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,GAS PIPELINE EXPLODES DUE TO DEGRADATION
+Dialogue: 5,0:14:02.29,0:14:05.67,Signs,tv,0,0,0,,GAS PIPELINE EXPLODES DUE TO DEGRADATION
+Dialogue: 0,0:14:05.63,0:14:05.67,<<folder>>,,0,0,0,,
+Dialogue: 0,0:14:23.06,0:14:23.10,<<folder>>,,0,0,0,,
+Dialogue: 0,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,Guidance
+Dialogue: 1,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,a
+Dialogue: 1,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,a
+Dialogue: 1,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,u
+Dialogue: 1,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,u
+Dialogue: 1,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,u
+Dialogue: 1,0:14:23.06,0:14:23.81,Signs,Screen,0,0,0,,h
+Dialogue: 0,0:14:23.77,0:14:23.81,<<folder>>,,0,0,0,,
+Dialogue: 0,0:17:29.79,0:17:29.83,<<folder>>,,0,0,0,,
+Dialogue: 0,0:17:29.78,0:17:31.53,Signs,,0,0,0,,Tokyo Metropolitan Jujutsu Technical High School
+Dialogue: 1,0:17:29.78,0:17:31.53,Signs,,0,0,0,,Tokyo Metropolitan Jujutsu Technical High School
+Dialogue: 2,0:17:29.78,0:17:31.53,Signs,,0,0,0,,w4EhT7YjFbRqA2pL9nKoPts6gXc
+Dialogue: 0,0:17:31.50,0:17:31.54,<<folder>>,,0,0,0,,
+Dialogue: 0,0:18:58.59,0:18:58.63,<<folder>>,,0,0,0,,
+Dialogue: 1,0:18:58.59,0:19:00.84,Signs,,0,0,0,,
+Dialogue: 1,0:18:58.59,0:19:00.84,Signs,,0,0,0,,
+Dialogue: 1,0:18:58.59,0:19:00.84,Signs,,0,0,0,,
+Dialogue: 1,0:18:58.59,0:19:00.84,Signs,,0,0,0,,
+Dialogue: 1,0:18:58.59,0:19:00.84,Signs,,0,0,0,,
+Dialogue: 1,0:18:58.59,0:19:00.84,Signs,,0,0,0,,
+Dialogue: 2,0:18:58.59,0:19:00.84,Signs,,0,0,0,,
+Dialogue: 1,0:18:58.59,0:19:00.84,Signs,,0,0,0,,
+Dialogue: 3,0:18:58.59,0:19:00.84,Signs,,0,0,0,,Cold
+Dialogue: 3,0:18:58.59,0:19:00.84,Signs,,0,0,0,,Cold
+Dialogue: 3,0:18:58.59,0:19:00.84,Signs,,0,0,0,,Cold
+Dialogue: 3,0:18:58.59,0:19:00.84,Signs,,0,0,0,,Cold
+Dialogue: 3,0:18:58.59,0:19:00.84,Signs,,0,0,0,,Cold
+Dialogue: 3,0:18:58.59,0:19:00.84,Signs,,0,0,0,,Cold
+Dialogue: 3,0:18:58.59,0:19:00.84,Signs,,0,0,0,,Cold
+Dialogue: 0,0:19:00.80,0:19:00.84,<<folder>>,,0,0,0,,
+Dialogue: 0,0:20:25.96,0:20:26.01,<<folder>>,,0,0,0,,
+Dialogue: 0,0:20:25.96,0:20:26.34,Signs,Screen,0,0,0,,
+Dialogue: 1,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,O
+Dialogue: 1,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,O
+Dialogue: 1,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,O
+Dialogue: 1,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,O
+Dialogue: 1,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,O
+Dialogue: 1,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,O
+Dialogue: 1,0:20:26.21,0:20:26.34,Signs,Screen,0,0,0,,O
+Dialogue: 1,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:20:26.21,0:20:26.34,Signs,Screen,0,0,0,,h
+Dialogue: 1,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,.
+Dialogue: 1,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,.
+Dialogue: 1,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,.
+Dialogue: 1,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,.
+Dialogue: 1,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,.
+Dialogue: 1,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,.
+Dialogue: 1,0:20:26.21,0:20:26.30,Signs,Screen,0,0,0,,.
+Dialogue: 1,0:20:26.30,0:20:26.34,Signs,Screen,0,0,0,,.
+Dialogue: 2,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,O
+Dialogue: 2,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,O
+Dialogue: 2,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,O
+Dialogue: 2,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,O
+Dialogue: 2,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,O
+Dialogue: 2,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,O
+Dialogue: 2,0:20:26.21,0:20:26.34,Signs,Screen,0,0,0,,O
+Dialogue: 2,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,h
+Dialogue: 2,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,h
+Dialogue: 2,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,h
+Dialogue: 2,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,h
+Dialogue: 2,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,h
+Dialogue: 2,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,h
+Dialogue: 2,0:20:26.21,0:20:26.34,Signs,Screen,0,0,0,,h
+Dialogue: 2,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,.
+Dialogue: 2,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,.
+Dialogue: 2,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,.
+Dialogue: 2,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,.
+Dialogue: 2,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,.
+Dialogue: 2,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,.
+Dialogue: 2,0:20:26.21,0:20:26.30,Signs,Screen,0,0,0,,.
+Dialogue: 2,0:20:26.30,0:20:26.34,Signs,Screen,0,0,0,,.
+Dialogue: 3,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,O
+Dialogue: 3,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,O
+Dialogue: 3,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,O
+Dialogue: 3,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,O
+Dialogue: 3,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,O
+Dialogue: 3,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,O
+Dialogue: 3,0:20:26.21,0:20:26.34,Signs,Screen,0,0,0,,O
+Dialogue: 3,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,h
+Dialogue: 3,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,h
+Dialogue: 3,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,h
+Dialogue: 3,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,h
+Dialogue: 3,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,h
+Dialogue: 3,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,h
+Dialogue: 3,0:20:26.21,0:20:26.34,Signs,Screen,0,0,0,,h
+Dialogue: 3,0:20:25.96,0:20:26.01,Signs,Screen,0,0,0,,.
+Dialogue: 3,0:20:26.01,0:20:26.05,Signs,Screen,0,0,0,,.
+Dialogue: 3,0:20:26.05,0:20:26.09,Signs,Screen,0,0,0,,.
+Dialogue: 3,0:20:26.09,0:20:26.13,Signs,Screen,0,0,0,,.
+Dialogue: 3,0:20:26.13,0:20:26.17,Signs,Screen,0,0,0,,.
+Dialogue: 3,0:20:26.17,0:20:26.21,Signs,Screen,0,0,0,,.
+Dialogue: 3,0:20:26.21,0:20:26.30,Signs,Screen,0,0,0,,.
+Dialogue: 3,0:20:26.30,0:20:26.34,Signs,Screen,0,0,0,,.
+Dialogue: 0,0:20:26.30,0:20:26.34,<<folder>>,,0,0,0,,
+Dialogue: 0,0:22:06.98,0:22:07.02,<<folder>>,,0,0,0,,
+Dialogue: 0,0:22:06.98,0:22:09.99,Signs,,0,0,0,,Episode 25
+Dialogue: 0,0:22:06.98,0:22:09.99,Signs,,0,0,0,,Hidden Inventory
+Dialogue: 0,0:23:47.50,0:23:47.54,<<folder>>,,0,0,0,,
+Dialogue: 0,0:23:47.50,0:23:55.01,Signs,Next,0,0,0,,Next Episode
+Dialogue: 0,0:23:47.50,0:23:55.01,Signs,Next,0,0,0,,Next Episode
+Dialogue: 1,0:23:47.50,0:23:55.01,Signs,Next,0,0,0,,Hidden Inventory II
+Dialogue: 1,0:23:47.50,0:23:55.01,Signs,Next,0,0,0,,Hidden Inventory II
+Dialogue: 0,0:23:54.96,0:23:55.01,<<folder>>,,0,0,0,,
+Dialogue: 0,0:10:58.14,0:10:58.18,OP3,,0,0,0,,
+Dialogue: 1,0:10:58.18,0:11:03.19,OP3,Title,0,0,0,,Hidden Inventory / Premature Death
+Dialogue: 0,0:10:58.18,0:11:03.19,OP3,Title,0,0,0,,
+Dialogue: 1,0:10:58.18,0:11:03.19,OP3,Title,0,0,0,,
+Dialogue: 2,0:10:58.23,0:10:58.43,OP3,Title,0,0,0,,
+Dialogue: 0,0:12:08.80,0:12:08.84,OP3,,0,0,0,,
+Dialogue: 0,0:12:08.80,0:12:08.84,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:08.84,0:12:08.88,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:08.88,0:12:08.92,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:08.92,0:12:08.96,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:08.96,0:12:09.00,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.00,0:12:09.05,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.05,0:12:09.09,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.09,0:12:09.13,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.13,0:12:09.17,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.17,0:12:09.21,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.21,0:12:09.25,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.25,0:12:09.30,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.30,0:12:09.34,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.34,0:12:09.38,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.38,0:12:09.42,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.42,0:12:09.46,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.46,0:12:09.51,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.51,0:12:09.55,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.55,0:12:09.59,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.59,0:12:09.63,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.63,0:12:09.67,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.67,0:12:09.71,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.71,0:12:09.76,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.76,0:12:09.80,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.80,0:12:09.84,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.84,0:12:09.88,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.88,0:12:09.92,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.92,0:12:09.96,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:09.96,0:12:10.01,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.01,0:12:10.05,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.05,0:12:10.09,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.09,0:12:10.13,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:08.80,0:12:08.84,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:08.84,0:12:08.88,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:08.88,0:12:08.92,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:08.92,0:12:08.96,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:08.96,0:12:09.00,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.00,0:12:09.05,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.05,0:12:09.09,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.09,0:12:09.13,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.13,0:12:09.17,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.17,0:12:09.21,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.21,0:12:09.25,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.25,0:12:09.30,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.30,0:12:09.34,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.34,0:12:09.38,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.38,0:12:09.42,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.42,0:12:09.46,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.46,0:12:09.51,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.51,0:12:09.55,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.55,0:12:09.59,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.59,0:12:09.63,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.63,0:12:09.67,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.67,0:12:09.71,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.71,0:12:09.76,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.76,0:12:09.80,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.80,0:12:09.84,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.84,0:12:09.88,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.88,0:12:09.92,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.92,0:12:09.96,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:09.96,0:12:10.01,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.01,0:12:10.05,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.05,0:12:10.09,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.09,0:12:10.13,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.59,0:12:10.63,OP3,,0,0,0,,
+Dialogue: 0,0:12:10.59,0:12:10.63,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.63,0:12:10.67,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.67,0:12:10.71,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.71,0:12:10.76,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.76,0:12:10.80,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.80,0:12:10.84,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.84,0:12:10.88,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.88,0:12:10.92,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.92,0:12:10.96,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.96,0:12:11.01,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.01,0:12:11.05,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.05,0:12:11.09,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.09,0:12:11.13,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.13,0:12:11.17,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.17,0:12:11.22,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.22,0:12:11.26,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.26,0:12:11.30,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.30,0:12:11.34,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.34,0:12:11.38,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.38,0:12:11.42,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.42,0:12:11.47,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:10.59,0:12:10.63,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.63,0:12:10.67,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.67,0:12:10.71,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.71,0:12:10.76,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.76,0:12:10.80,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.80,0:12:10.84,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.84,0:12:10.88,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.88,0:12:10.92,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.92,0:12:10.96,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:10.96,0:12:11.01,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.01,0:12:11.05,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.05,0:12:11.09,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.09,0:12:11.13,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.13,0:12:11.17,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.17,0:12:11.22,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.22,0:12:11.26,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.26,0:12:11.30,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.30,0:12:11.34,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.34,0:12:11.38,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.38,0:12:11.42,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.42,0:12:11.47,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:11.97,0:12:12.01,OP3,,0,0,0,,
+Dialogue: 0,0:12:11.97,0:12:12.01,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.01,0:12:12.05,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.05,0:12:12.09,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.09,0:12:12.13,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.13,0:12:12.17,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.17,0:12:12.22,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.22,0:12:12.26,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.26,0:12:12.30,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.30,0:12:12.34,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.34,0:12:12.38,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.38,0:12:12.42,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.42,0:12:12.47,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.47,0:12:12.51,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.51,0:12:12.55,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.55,0:12:12.59,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.59,0:12:12.63,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.63,0:12:12.67,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.67,0:12:12.72,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.72,0:12:12.76,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.76,0:12:12.80,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.80,0:12:12.84,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.84,0:12:12.88,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.88,0:12:12.93,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:12.93,0:12:12.97,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:11.97,0:12:12.01,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.01,0:12:12.05,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.05,0:12:12.09,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.09,0:12:12.13,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.13,0:12:12.17,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.17,0:12:12.22,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.22,0:12:12.26,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.26,0:12:12.30,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.30,0:12:12.34,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.34,0:12:12.38,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.38,0:12:12.42,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.42,0:12:12.47,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.47,0:12:12.51,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.51,0:12:12.55,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.55,0:12:12.59,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.59,0:12:12.63,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.63,0:12:12.67,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.67,0:12:12.72,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.72,0:12:12.76,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.76,0:12:12.80,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.80,0:12:12.84,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.84,0:12:12.88,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.88,0:12:12.93,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:12.93,0:12:12.97,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.55,0:12:13.59,OP3,,0,0,0,,
+Dialogue: 0,0:12:13.55,0:12:13.59,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.59,0:12:13.63,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.63,0:12:13.68,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.68,0:12:13.72,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.72,0:12:13.76,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.76,0:12:13.80,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.80,0:12:13.84,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.84,0:12:13.88,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.88,0:12:13.93,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.93,0:12:13.97,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.97,0:12:14.01,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.01,0:12:14.05,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.05,0:12:14.09,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.09,0:12:14.13,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.13,0:12:14.18,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.18,0:12:14.22,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.22,0:12:14.26,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.26,0:12:14.30,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.30,0:12:14.34,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.34,0:12:14.39,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.39,0:12:14.43,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.43,0:12:14.47,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.47,0:12:14.51,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.51,0:12:14.55,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.55,0:12:14.59,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.59,0:12:14.64,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.64,0:12:14.68,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:14.68,0:12:14.72,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:13.55,0:12:13.59,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.59,0:12:13.63,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.63,0:12:13.68,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.68,0:12:13.72,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.72,0:12:13.76,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.76,0:12:13.80,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.80,0:12:13.84,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.84,0:12:13.88,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.88,0:12:13.93,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.93,0:12:13.97,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:13.97,0:12:14.01,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.01,0:12:14.05,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.05,0:12:14.09,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.09,0:12:14.13,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.13,0:12:14.18,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.18,0:12:14.22,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.22,0:12:14.26,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.26,0:12:14.30,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.30,0:12:14.34,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.34,0:12:14.39,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.39,0:12:14.43,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.43,0:12:14.47,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.47,0:12:14.51,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.51,0:12:14.55,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.55,0:12:14.59,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.59,0:12:14.64,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.64,0:12:14.68,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:14.68,0:12:14.72,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:15.47,0:12:15.51,OP3,,0,0,0,,
+Dialogue: 0,0:12:15.47,0:12:18.64,OP3,Sign,0,0,0,,Throughout Heaven and Earth
+Dialogue: 0,0:12:15.47,0:12:18.64,OP3,Sign,0,0,0,,I alone am the honored one
+Dialogue: 0,0:12:15.34,0:12:17.35,OP3,,0,0,0,,
+Dialogue: 1,0:10:58.68,0:11:03.81,OP3,main,0,0,0,fx,The blue spring of youth stretches out as far as the eye can see
+Dialogue: 0,0:10:58.81,0:11:03.69,OP3,main,0,0,0,fx,The blue spring of youth stretches out as far as the eye can see
+Dialogue: 1,0:11:04.94,0:11:10.65,OP3,main,0,0,0,fx,Not a single cloud between us and this breathtaking view
+Dialogue: 0,0:11:05.07,0:11:10.53,OP3,main,0,0,0,fx,Not a single cloud between us and this breathtaking view
+Dialogue: 1,0:11:11.24,0:11:16.16,OP3,main,0,0,0,fx,The cicadas' song reverberates off the road
+Dialogue: 0,0:11:11.36,0:11:16.04,OP3,main,0,0,0,fx,The cicadas' song reverberates off the road
+Dialogue: 1,0:11:16.16,0:11:21.67,OP3,main,0,0,0,fx,Drowning out your deafening silence
+Dialogue: 0,0:11:16.29,0:11:21.54,OP3,main,0,0,0,fx,Drowning out your deafening silence
+Dialogue: 1,0:11:22.33,0:11:25.59,OP3,main,0,0,0,fx,These colors will fade away someday
+Dialogue: 0,0:11:22.46,0:11:25.46,OP3,main,0,0,0,fx,These colors will fade away someday
+Dialogue: 1,0:11:25.59,0:11:29.92,OP3,main,0,0,0,fx,Even if I etch your scent into my memory
+Dialogue: 0,0:11:25.71,0:11:29.80,OP3,main,0,0,0,fx,Even if I etch your scent into my memory
+Dialogue: 1,0:11:30.09,0:11:35.68,OP3,main,0,0,0,fx,Into the depths of eternity they'll drown
+Dialogue: 0,0:11:30.22,0:11:35.55,OP3,main,0,0,0,fx,Into the depths of eternity they'll drown
+Dialogue: 1,0:11:36.56,0:11:39.85,OP3,top,0,0,0,fx,Even today, our youth is shining blue
+Dialogue: 0,0:11:36.68,0:11:39.73,OP3,top,0,0,0,fx,Even today, our youth is shining blue
+Dialogue: 1,0:11:39.85,0:11:42.98,OP3,top,0,0,0,fx,Even today, our blue shines through
+Dialogue: 0,0:11:39.98,0:11:42.85,OP3,top,0,0,0,fx,Even today, our blue shines through
+Dialogue: 1,0:11:43.10,0:11:46.02,OP3,top,0,0,0,fx,All my wishes and prayers for you
+Dialogue: 0,0:11:43.23,0:11:45.90,OP3,top,0,0,0,fx,All my wishes and prayers for you
+Dialogue: 1,0:11:46.02,0:11:49.28,OP3,top,0,0,0,fx,They get close only to get farther
+Dialogue: 0,0:11:46.15,0:11:49.15,OP3,top,0,0,0,fx,They get close only to get farther
+Dialogue: 1,0:11:49.40,0:11:52.15,OP3,top_green,0,0,0,fx,Like whispers of a love untold
+Dialogue: 0,0:11:49.53,0:11:52.03,OP3,top_green,0,0,0,fx,Like whispers of a love untold
+Dialogue: 1,0:11:52.32,0:11:56.28,OP3,top,0,0,0,fx,Amidst hues of a fleeting summer streaming down my face
+Dialogue: 0,0:11:52.45,0:11:56.16,OP3,top,0,0,0,fx,Amidst hues of a fleeting summer streaming down my face
+Dialogue: 1,0:11:56.41,0:12:01.62,OP3,top,0,0,0,fx,Stuck at the back of my throat are words that are a curse to you
+Dialogue: 0,0:11:56.53,0:12:01.50,OP3,top,0,0,0,fx,Stuck at the back of my throat are words that are a curse to you
+Dialogue: 1,0:12:01.96,0:12:04.79,OP3,top_orange,0,0,0,fx,"You know we'll meet again, right?"
+Dialogue: 0,0:12:02.08,0:12:04.67,OP3,top_orange,0,0,0,fx,"You know we'll meet again, right?"
+Dialogue: 1,0:12:05.04,0:12:07.96,OP3,top_orange,0,0,0,fx,As my voice gives out on me
+Dialogue: 0,0:12:05.17,0:12:07.84,OP3,top_orange,0,0,0,fx,As my voice gives out on me
+Dialogue: 1,0:12:08.88,0:12:11.97,OP3,main_darker,0,0,0,fx,Like grains of stars in the endless galaxy
+Dialogue: 0,0:12:09.00,0:12:11.84,OP3,main_darker,0,0,0,fx,Like grains of stars in the endless galaxy
+Dialogue: 1,0:12:11.97,0:12:15.47,OP3,main_darker,0,0,0,fx,Slipping through the gaps between my fingers
+Dialogue: 0,0:12:12.09,0:12:15.34,OP3,main_darker,0,0,0,fx,Slipping through the gaps between my fingers
+Dialogue: 0,0:12:17.35,0:12:19.35,OP3,,0,0,0,,
+Dialogue: 0,0:22:10.36,0:22:15.36,ED3,,0,0,0,,Before the good in me crumbles away entirely
+Dialogue: 0,0:22:15.36,0:22:17.90,ED3,,0,0,0,,Before the good in me crumbles away entirely
+Dialogue: 0,0:22:17.90,0:22:22.87,ED3,,0,0,0,,I should have told you everything
+Dialogue: 0,0:22:22.87,0:22:23.79,ED3,,0,0,0,,I should have told you everything
+Dialogue: 0,0:22:23.79,0:22:25.45,ED3,,0,0,0,,I should have told you everything
+Dialogue: 0,0:22:26.20,0:22:33.67,ED3,,0,0,0,,In a life descending and dissolving into the night
+Dialogue: 0,0:22:33.67,0:22:41.68,ED3,,0,0,0,,My tangled emotions flicker like a dim light
+Dialogue: 0,0:22:41.68,0:22:45.39,ED3,,0,0,0,,"That's just how it is, there's no other way"
+Dialogue: 0,0:22:45.39,0:22:49.14,ED3,,0,0,0,,Sure, I understand all that
+Dialogue: 0,0:22:49.14,0:22:51.77,ED3,,0,0,0,,But something's still missing
+Dialogue: 0,0:22:51.77,0:22:55.82,ED3,,0,0,0,,Why does it all feel so meaningless?
+Dialogue: 0,0:22:56.90,0:23:00.11,ED3,,0,0,0,,That something I thought could be anywhere
+Dialogue: 0,0:23:00.11,0:23:03.91,ED3,,0,0,0,,I realized can be found nowhere but here
+Dialogue: 0,0:23:03.91,0:23:07.54,ED3,,0,0,0,,Those silly little chats were enough for me
+Dialogue: 0,0:23:07.54,0:23:11.50,ED3,,0,0,0,,Just let me see that blushing face again
+Dialogue: 0,0:23:11.79,0:23:13.58,ED3,,0,0,0,,And so the moon is dark tonight
+Dialogue: 0,0:23:13.58,0:23:14.50,ED3,,0,0,0,,Head feels light
+Dialogue: 0,0:23:14.50,0:23:15.67,ED3,,0,0,0,,Another day I remain unbroken
+Dialogue: 0,0:23:15.67,0:23:17.17,ED3,,0,0,0,,What was I looking for, again?
+Dialogue: 0,0:23:17.17,0:23:18.26,ED3,,0,0,0,,My love's wavering
+Dialogue: 0,0:23:18.26,0:23:19.05,ED3,,0,0,0,,Gotta keep it hidden
+Dialogue: 0,0:23:19.05,0:23:19.17,ED3,,0,0,0,,Gotta keep it hidden
+Dialogue: 0,0:23:19.17,0:23:19.55,ED3,,0,0,0,,Gotta keep it hidden
+Dialogue: 0,0:23:19.55,0:23:20.51,ED3,,0,0,0,,And so the moon is dark tonight
+Dialogue: 0,0:23:20.51,0:23:22.05,ED3,,0,0,0,,Head feels light
+Dialogue: 0,0:23:22.05,0:23:23.26,ED3,,0,0,0,,Can't get outta bed today
+Dialogue: 0,0:23:23.26,0:23:23.68,ED3,,0,0,0,,Can't get outta bed today
+Dialogue: 0,0:23:23.68,0:23:27.14,ED3,,0,0,0,,Lemme sleep and sleep 'till the next day
+Dialogue: 0,0:23:27.14,0:23:29.06,ED3,,0,0,0,,Is this loneliness? Am I crying? So annoying
+Dialogue: 0,0:23:29.06,0:23:31.10,ED3,,0,0,0,,My already hazy memories are dying
+Dialogue: 0,0:23:31.10,0:23:32.19,ED3,,0,0,0,,My already hazy memories are dying
+Dialogue: 0,0:23:32.19,0:23:34.19,ED3,,0,0,0,,Can't even recall last night
+Dialogue: 0,0:23:34.19,0:23:35.94,ED3,,0,0,0,,And so the moon is dark tonight
+Dialogue: 0,0:23:35.94,0:23:36.86,ED3,,0,0,0,,Distorts the light
+Dialogue: 0,0:23:36.86,0:23:39.40,ED3,,0,0,0,,Where to tomorrow?
+Dialogue: 1,0:22:10.36,0:22:15.36,ED3,,0,0,0,,Before the good in me crumbles away entirely
+Dialogue: 1,0:22:15.36,0:22:17.90,ED3,,0,0,0,,Before the good in me crumbles away entirely
+Dialogue: 1,0:22:17.90,0:22:22.87,ED3,,0,0,0,,I should have told you everything
+Dialogue: 1,0:22:22.87,0:22:23.79,ED3,,0,0,0,,I should have told you everything
+Dialogue: 1,0:22:23.79,0:22:25.45,ED3,,0,0,0,,I should have told you everything
+Dialogue: 1,0:22:25.75,0:22:33.67,ED3,,0,0,0,,In a life descending and dissolving into the night
+Dialogue: 1,0:22:33.67,0:22:41.68,ED3,,0,0,0,,My tangled emotions flicker like a dim light
+Dialogue: 1,0:22:41.68,0:22:45.39,ED3,,0,0,0,,"That's just how it is, there's no other way"
+Dialogue: 1,0:22:45.39,0:22:49.14,ED3,,0,0,0,,Sure, I understand all that
+Dialogue: 1,0:22:49.14,0:22:51.77,ED3,,0,0,0,,But something's still missing
+Dialogue: 1,0:22:51.77,0:22:55.82,ED3,,0,0,0,,Why does it all feel so meaningless?
+Dialogue: 1,0:23:11.79,0:23:13.58,ED3,,0,0,0,,And so the moon is dark tonight
+Dialogue: 1,0:23:13.58,0:23:14.50,ED3,,0,0,0,,Head feels light
+Dialogue: 1,0:23:14.50,0:23:15.67,ED3,,0,0,0,,Another day I remain unbroken
+Dialogue: 1,0:23:15.67,0:23:17.17,ED3,,0,0,0,,What was I looking for, again?
+Dialogue: 1,0:23:17.17,0:23:18.26,ED3,,0,0,0,,My love's wavering
+Dialogue: 1,0:23:18.26,0:23:19.05,ED3,,0,0,0,,Gotta keep it hidden
+Dialogue: 1,0:23:19.05,0:23:19.17,ED3,,0,0,0,,Gotta keep it hidden
+Dialogue: 1,0:23:19.17,0:23:19.55,ED3,,0,0,0,,Gotta keep it hidden
+Dialogue: 1,0:23:19.55,0:23:20.51,ED3,,0,0,0,,And so the moon is dark tonight
+Dialogue: 1,0:23:20.51,0:23:22.05,ED3,,0,0,0,,Head feels light
+Dialogue: 1,0:23:22.05,0:23:23.26,ED3,,0,0,0,,Can't get outta bed today
+Dialogue: 1,0:23:23.26,0:23:23.68,ED3,,0,0,0,,Can't get outta bed today
+Dialogue: 1,0:23:23.68,0:23:27.14,ED3,,0,0,0,,Lemme sleep and sleep 'till the next day
+Dialogue: 1,0:23:34.19,0:23:35.94,ED3,,0,0,0,,And so the moon is dark tonight
+Dialogue: 1,0:23:35.94,0:23:36.86,ED3,,0,0,0,,Distorts the light
+Dialogue: 1,0:23:36.86,0:23:39.40,ED3,,0,0,0,,Where to tomorrow?
