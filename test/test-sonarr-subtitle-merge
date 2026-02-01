@@ -16,7 +16,7 @@ ln -s "$SRC" "$BIN"
 
 "$BIN" --eventtype=Test
 
-export sonarr_eventtype="Download"
+export sonarr_eventtype="Import"
 export sonarr_isupgrade="False"
 
 for file in test/media/*.{mkv,mp4}; do
