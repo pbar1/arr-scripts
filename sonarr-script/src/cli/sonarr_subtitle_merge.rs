@@ -9,7 +9,7 @@ use crate::subtitle::SubtitleMergeContext;
 #[derive(Debug, Clone, clap::Args)]
 pub struct Args {
     /// Sonarr event type
-    #[clap(long, env = "sonarr_eventtype", default_value = "Download")]
+    #[clap(long, env = "sonarr_eventtype", default_value = "Import")]
     pub eventtype: EventType,
 
     /// `True` when an existing file is upgraded, `False` otherwise
@@ -26,14 +26,14 @@ pub struct Args {
 #[non_exhaustive]
 pub enum EventType {
     Test,
-    Download,
+    Import,
 }
 
 impl Args {
     pub fn run(&self) -> anyhow::Result<()> {
         match self.eventtype {
             EventType::Test => self.handle_test(),
-            EventType::Download => self.handle_download(),
+            EventType::Import => self.handle_import(),
         }
     }
 
@@ -42,7 +42,7 @@ impl Args {
         Ok(())
     }
 
-    fn handle_download(&self) -> anyhow::Result<()> {
+    fn handle_import(&self) -> anyhow::Result<()> {
         let media_file = self
             .episodefile_path
             .clone()
